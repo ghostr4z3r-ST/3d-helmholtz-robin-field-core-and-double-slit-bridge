@@ -1,0 +1,1021 @@
+geometry,beta,perm_tag,perm,criterion,baseline_q,expected_q,observed_q,exact_match,baseline_family,observed_family,family_match
+cubic,0.0,XYZ,"(0, 1, 2)",consensus,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+cubic,1.0,XYZ,"(0, 1, 2)",consensus,X1+Y1,X1+Y1,X1+Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+cubic,1.5,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+cubic,2.0,XYZ,"(0, 1, 2)",consensus,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+cubic,5.0,XYZ,"(0, 1, 2)",consensus,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+cubic,10.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,0.0,XYZ,"(0, 1, 2)",consensus,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,XZY,"(0, 2, 1)",consensus,Y1,Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,YXZ,"(1, 0, 2)",consensus,Y1,X1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,YZX,"(1, 2, 0)",consensus,Y1,X1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,ZXY,"(2, 0, 1)",consensus,Y1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,ZYX,"(2, 1, 0)",consensus,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,XYZ,"(0, 1, 2)",consensus,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,XZY,"(0, 2, 1)",consensus,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,YXZ,"(1, 0, 2)",consensus,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,YZX,"(1, 2, 0)",consensus,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,ZXY,"(2, 0, 1)",consensus,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,ZYX,"(2, 1, 0)",consensus,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,XZY,"(0, 2, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,YXZ,"(1, 0, 2)",consensus,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z2,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,YZX,"(1, 2, 0)",consensus,X1+Y2+Z1,X2+Y1+Z1,X1+Y1+Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,ZYX,"(2, 1, 0)",consensus,X1+Y2+Z1,X1+Y2+Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,2.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,YXZ,"(1, 0, 2)",consensus,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,YZX,"(1, 2, 0)",consensus,X1+Y2+Z1,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.05_1.20,2.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,ZYX,"(2, 1, 0)",consensus,X1+Y2+Z1,X1+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,5.0,XYZ,"(0, 1, 2)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+ortho_1.05_1.20,5.0,XZY,"(0, 2, 1)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,YXZ,"(1, 0, 2)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,YZX,"(1, 2, 0)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,ZXY,"(2, 0, 1)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,ZYX,"(2, 1, 0)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+ortho_1.05_1.20,10.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,10.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,10.0,YXZ,"(1, 0, 2)",consensus,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,10.0,YZX,"(1, 2, 0)",consensus,X1+Y2+Z2,X2+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,10.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+ortho_1.05_1.20,10.0,ZYX,"(2, 1, 0)",consensus,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,0.0,XYZ,"(0, 1, 2)",consensus,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,XZY,"(0, 2, 1)",consensus,X1,X1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,YXZ,"(1, 0, 2)",consensus,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,YZX,"(1, 2, 0)",consensus,X1,Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,ZXY,"(2, 0, 1)",consensus,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,ZYX,"(2, 1, 0)",consensus,X1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,XYZ,"(0, 1, 2)",consensus,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,XZY,"(0, 2, 1)",consensus,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,YXZ,"(1, 0, 2)",consensus,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,YZX,"(1, 2, 0)",consensus,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,ZXY,"(2, 0, 1)",consensus,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,ZYX,"(2, 1, 0)",consensus,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,XZY,"(0, 2, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,YXZ,"(1, 0, 2)",consensus,X1+Y2+Z1,X2+Y1+Z1,X1+Y1+Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,YZX,"(1, 2, 0)",consensus,X1+Y2+Z1,X2+Y1+Z1,X1+Y1+Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,ZYX,"(2, 1, 0)",consensus,X1+Y2+Z1,X1+Y2+Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,2.0,XYZ,"(0, 1, 2)",consensus,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,2.0,XZY,"(0, 2, 1)",consensus,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,2.0,YXZ,"(1, 0, 2)",consensus,X1+Y1+Z2,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,2.0,YZX,"(1, 2, 0)",consensus,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,2.0,ZXY,"(2, 0, 1)",consensus,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,2.0,ZYX,"(2, 1, 0)",consensus,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,5.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,5.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,5.0,YXZ,"(1, 0, 2)",consensus,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,5.0,YZX,"(1, 2, 0)",consensus,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,5.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,5.0,ZYX,"(2, 1, 0)",consensus,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,10.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.10_1.30,10.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,10.0,YXZ,"(1, 0, 2)",consensus,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,10.0,YZX,"(1, 2, 0)",consensus,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,10.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,10.0,ZYX,"(2, 1, 0)",consensus,X1+Y2+Z2,X2+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,0.0,XYZ,"(0, 1, 2)",consensus,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,XZY,"(0, 2, 1)",consensus,X1,X1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,YXZ,"(1, 0, 2)",consensus,X1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,YZX,"(1, 2, 0)",consensus,X1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,ZXY,"(2, 0, 1)",consensus,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,ZYX,"(2, 1, 0)",consensus,X1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,1.0,XYZ,"(0, 1, 2)",consensus,X1+Z1,X1+Z1,X1+Z1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+ortho_1.20_1.50,1.0,XZY,"(0, 2, 1)",consensus,X1+Z1,X1+Y1,X1+Y1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+ortho_1.20_1.50,1.0,YXZ,"(1, 0, 2)",consensus,X1+Z1,Y1+Z1,Y1+Z2,0,"2-axis:(1, 1)","2-axis:(1, 2)",0
+ortho_1.20_1.50,1.0,YZX,"(1, 2, 0)",consensus,X1+Z1,Y1+Z1,Y1+Z1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+ortho_1.20_1.50,1.0,ZXY,"(2, 0, 1)",consensus,X1+Z1,X1+Y1,X1+Y1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+ortho_1.20_1.50,1.0,ZYX,"(2, 1, 0)",consensus,X1+Z1,X1+Z1,X1+Z2,0,"2-axis:(1, 1)","2-axis:(1, 2)",0
+ortho_1.20_1.50,1.5,XYZ,"(0, 1, 2)",consensus,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,1.5,XZY,"(0, 2, 1)",consensus,X1+Y1+Z2,X1+Y2+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,1.5,YXZ,"(1, 0, 2)",consensus,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,1.5,YZX,"(1, 2, 0)",consensus,X1+Y1+Z2,X1+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,1.5,ZXY,"(2, 0, 1)",consensus,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,1.5,ZYX,"(2, 1, 0)",consensus,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,2.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.20_1.50,2.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,2.0,YXZ,"(1, 0, 2)",consensus,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,2.0,YZX,"(1, 2, 0)",consensus,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.20_1.50,2.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,2.0,ZYX,"(2, 1, 0)",consensus,X1+Y2+Z2,X2+Y2+Z1,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,5.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,5.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,5.0,YXZ,"(1, 0, 2)",consensus,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,5.0,YZX,"(1, 2, 0)",consensus,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,5.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,5.0,ZYX,"(2, 1, 0)",consensus,X1+Y2+Z1,X1+Y2+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,10.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,10.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,10.0,YXZ,"(1, 0, 2)",consensus,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,10.0,YZX,"(1, 2, 0)",consensus,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,10.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,10.0,ZYX,"(2, 1, 0)",consensus,X1+Y2+Z1,X1+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,0.0,XYZ,"(0, 1, 2)",consensus,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,0.0,XZY,"(0, 2, 1)",consensus,X1,X1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,0.0,ZXY,"(2, 0, 1)",consensus,X1,Y1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.0,XYZ,"(0, 1, 2)",consensus,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.0,XZY,"(0, 2, 1)",consensus,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.0,ZXY,"(2, 0, 1)",consensus,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.5,XYZ,"(0, 1, 2)",consensus,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.5,XZY,"(0, 2, 1)",consensus,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.5,ZXY,"(2, 0, 1)",consensus,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,2.0,XYZ,"(0, 1, 2)",consensus,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,2.0,XZY,"(0, 2, 1)",consensus,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,2.0,ZXY,"(2, 0, 1)",consensus,X1+Y1+Z2,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,5.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.05,5.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.05,5.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.05,10.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,10.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+tet_1.05,10.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.10,0.0,XYZ,"(0, 1, 2)",consensus,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,0.0,XZY,"(0, 2, 1)",consensus,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,0.0,ZXY,"(2, 0, 1)",consensus,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.0,XYZ,"(0, 1, 2)",consensus,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.0,XZY,"(0, 2, 1)",consensus,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.0,ZXY,"(2, 0, 1)",consensus,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.5,XYZ,"(0, 1, 2)",consensus,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.5,XZY,"(0, 2, 1)",consensus,X1+Y1+Z2,X1+Y2+Z1,X1+Y1+Z2,0,"1-axis:(1,)","3-axis:(1, 1, 2)",0
+tet_1.10,1.5,ZXY,"(2, 0, 1)",consensus,X1+Y1+Z2,X2+Y1+Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,2.0,XYZ,"(0, 1, 2)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.10,2.0,XZY,"(0, 2, 1)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.10,2.0,ZXY,"(2, 0, 1)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.10,5.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.10,5.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.10,5.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.10,10.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.10,10.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+tet_1.10,10.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.20,0.0,XYZ,"(0, 1, 2)",consensus,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,0.0,XZY,"(0, 2, 1)",consensus,Y1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,0.0,ZXY,"(2, 0, 1)",consensus,Y1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.0,XYZ,"(0, 1, 2)",consensus,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.0,XZY,"(0, 2, 1)",consensus,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.0,ZXY,"(2, 0, 1)",consensus,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.5,XYZ,"(0, 1, 2)",consensus,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.5,XZY,"(0, 2, 1)",consensus,Z1,Y1,X1+Y1+Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.5,ZXY,"(2, 0, 1)",consensus,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,2.0,XYZ,"(0, 1, 2)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.20,2.0,XZY,"(0, 2, 1)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.20,2.0,ZXY,"(2, 0, 1)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.20,5.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.20,5.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+tet_1.20,5.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.20,10.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.20,10.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.20,10.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,0.0,XYZ,"(0, 1, 2)",consensus,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,0.0,XZY,"(0, 2, 1)",consensus,Z1,Y1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,0.0,ZXY,"(2, 0, 1)",consensus,Z1,X1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.0,XYZ,"(0, 1, 2)",consensus,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.0,XZY,"(0, 2, 1)",consensus,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.0,ZXY,"(2, 0, 1)",consensus,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.5,XYZ,"(0, 1, 2)",consensus,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,1.5,XZY,"(0, 2, 1)",consensus,X1+Y1+Z2,X1+Y2+Z1,Y1,0,"3-axis:(1, 1, 2)","1-axis:(1,)",0
+tet_1.35,1.5,ZXY,"(2, 0, 1)",consensus,X1+Y1+Z2,X2+Y1+Z1,X1,0,"3-axis:(1, 1, 2)","1-axis:(1,)",0
+tet_1.35,2.0,XYZ,"(0, 1, 2)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.35,2.0,XZY,"(0, 2, 1)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.35,2.0,ZXY,"(2, 0, 1)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 2, 2)",0
+tet_1.35,5.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.35,5.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.35,5.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.35,10.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,10.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,10.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.50,0.0,XYZ,"(0, 1, 2)",consensus,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,0.0,XZY,"(0, 2, 1)",consensus,Y1,Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,0.0,ZXY,"(2, 0, 1)",consensus,Y1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.0,XYZ,"(0, 1, 2)",consensus,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.0,XZY,"(0, 2, 1)",consensus,Z1,Y1,X1+Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.0,ZXY,"(2, 0, 1)",consensus,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.5,XYZ,"(0, 1, 2)",consensus,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.5,XZY,"(0, 2, 1)",consensus,Z1,Y1,X1+Y1+Z1,0,"1-axis:(1,)","3-axis:(1, 1, 1)",0
+tet_1.50,1.5,ZXY,"(2, 0, 1)",consensus,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,2.0,XYZ,"(0, 1, 2)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.50,2.0,XZY,"(0, 2, 1)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.50,2.0,ZXY,"(2, 0, 1)",consensus,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.50,5.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.50,5.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+tet_1.50,5.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+tet_1.50,10.0,XYZ,"(0, 1, 2)",consensus,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.50,10.0,XZY,"(0, 2, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.50,10.0,ZXY,"(2, 0, 1)",consensus,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+cubic,0.0,XYZ,"(0, 1, 2)",q_only,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+cubic,1.0,XYZ,"(0, 1, 2)",q_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+cubic,1.5,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+cubic,2.0,XYZ,"(0, 1, 2)",q_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+cubic,5.0,XYZ,"(0, 1, 2)",q_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+cubic,10.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,0.0,XYZ,"(0, 1, 2)",q_only,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,XZY,"(0, 2, 1)",q_only,Y1,Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,YXZ,"(1, 0, 2)",q_only,Y1,X1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,YZX,"(1, 2, 0)",q_only,Y1,X1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,ZXY,"(2, 0, 1)",q_only,Y1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,ZYX,"(2, 1, 0)",q_only,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,XYZ,"(0, 1, 2)",q_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,XZY,"(0, 2, 1)",q_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,YXZ,"(1, 0, 2)",q_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,YZX,"(1, 2, 0)",q_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,ZXY,"(2, 0, 1)",q_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,ZYX,"(2, 1, 0)",q_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,1.5,XZY,"(0, 2, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.05_1.20,1.5,YXZ,"(1, 0, 2)",q_only,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.05_1.20,1.5,YZX,"(1, 2, 0)",q_only,X1+Y2+Z1,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.05_1.20,1.5,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.05_1.20,1.5,ZYX,"(2, 1, 0)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.05_1.20,2.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,YXZ,"(1, 0, 2)",q_only,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,YZX,"(1, 2, 0)",q_only,X1+Y2+Z1,X2+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,ZYX,"(2, 1, 0)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,5.0,XYZ,"(0, 1, 2)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+ortho_1.05_1.20,5.0,XZY,"(0, 2, 1)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 2, 2)",0
+ortho_1.05_1.20,5.0,YXZ,"(1, 0, 2)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,YZX,"(1, 2, 0)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+ortho_1.05_1.20,5.0,ZXY,"(2, 0, 1)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,ZYX,"(2, 1, 0)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+ortho_1.05_1.20,10.0,XYZ,"(0, 1, 2)",q_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,10.0,XZY,"(0, 2, 1)",q_only,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.05_1.20,10.0,YXZ,"(1, 0, 2)",q_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,10.0,YZX,"(1, 2, 0)",q_only,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.05_1.20,10.0,ZXY,"(2, 0, 1)",q_only,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,10.0,ZYX,"(2, 1, 0)",q_only,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,0.0,XYZ,"(0, 1, 2)",q_only,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,XZY,"(0, 2, 1)",q_only,X1,X1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,YXZ,"(1, 0, 2)",q_only,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,YZX,"(1, 2, 0)",q_only,X1,Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,ZXY,"(2, 0, 1)",q_only,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,ZYX,"(2, 1, 0)",q_only,X1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,XYZ,"(0, 1, 2)",q_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,XZY,"(0, 2, 1)",q_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,YXZ,"(1, 0, 2)",q_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,YZX,"(1, 2, 0)",q_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,ZXY,"(2, 0, 1)",q_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,ZYX,"(2, 1, 0)",q_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,1.5,XZY,"(0, 2, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,1.5,YXZ,"(1, 0, 2)",q_only,X1+Y2+Z1,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,1.5,YZX,"(1, 2, 0)",q_only,X1+Y2+Z1,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,1.5,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,1.5,ZYX,"(2, 1, 0)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,2.0,XYZ,"(0, 1, 2)",q_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,2.0,XZY,"(0, 2, 1)",q_only,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,2.0,YXZ,"(1, 0, 2)",q_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,2.0,YZX,"(1, 2, 0)",q_only,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,2.0,ZXY,"(2, 0, 1)",q_only,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,2.0,ZYX,"(2, 1, 0)",q_only,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,5.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.10_1.30,5.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,5.0,YXZ,"(1, 0, 2)",q_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,5.0,YZX,"(1, 2, 0)",q_only,X1+Y2+Z2,X2+Y2+Z1,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,5.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,5.0,ZYX,"(2, 1, 0)",q_only,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,10.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.10_1.30,10.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.10_1.30,10.0,YXZ,"(1, 0, 2)",q_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,10.0,YZX,"(1, 2, 0)",q_only,X1+Y2+Z2,X2+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,10.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,10.0,ZYX,"(2, 1, 0)",q_only,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,0.0,XYZ,"(0, 1, 2)",q_only,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,XZY,"(0, 2, 1)",q_only,X1,X1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,YXZ,"(1, 0, 2)",q_only,X1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,YZX,"(1, 2, 0)",q_only,X1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,ZXY,"(2, 0, 1)",q_only,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,ZYX,"(2, 1, 0)",q_only,X1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,1.0,XYZ,"(0, 1, 2)",q_only,Y1+Z2,Y1+Z2,Y1+Z2,1,"2-axis:(1, 2)","2-axis:(1, 2)",1
+ortho_1.20_1.50,1.0,XZY,"(0, 2, 1)",q_only,Y1+Z2,Y2+Z1,Y1+Z1,0,"2-axis:(1, 2)","2-axis:(1, 1)",0
+ortho_1.20_1.50,1.0,YXZ,"(1, 0, 2)",q_only,Y1+Z2,X1+Z2,X1+Z1,0,"2-axis:(1, 2)","2-axis:(1, 1)",0
+ortho_1.20_1.50,1.0,YZX,"(1, 2, 0)",q_only,Y1+Z2,X1+Y2,X1+Y1,0,"2-axis:(1, 2)","2-axis:(1, 1)",0
+ortho_1.20_1.50,1.0,ZXY,"(2, 0, 1)",q_only,Y1+Z2,X2+Z1,X1+Z1,0,"2-axis:(1, 2)","2-axis:(1, 1)",0
+ortho_1.20_1.50,1.0,ZYX,"(2, 1, 0)",q_only,Y1+Z2,X2+Y1,X1+Y2,0,"2-axis:(1, 2)","2-axis:(1, 2)",1
+ortho_1.20_1.50,1.5,XYZ,"(0, 1, 2)",q_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,1.5,XZY,"(0, 2, 1)",q_only,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,1.5,YXZ,"(1, 0, 2)",q_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,1.5,YZX,"(1, 2, 0)",q_only,X1+Y1+Z2,X1+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,1.5,ZXY,"(2, 0, 1)",q_only,X1+Y1+Z2,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,1.5,ZYX,"(2, 1, 0)",q_only,X1+Y1+Z2,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,2.0,XYZ,"(0, 1, 2)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+ortho_1.20_1.50,2.0,XZY,"(0, 2, 1)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,2.0,YXZ,"(1, 0, 2)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,2.0,YZX,"(1, 2, 0)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,2.0,ZXY,"(2, 0, 1)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,2.0,ZYX,"(2, 1, 0)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+ortho_1.20_1.50,5.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.20_1.50,5.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,5.0,YXZ,"(1, 0, 2)",q_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,5.0,YZX,"(1, 2, 0)",q_only,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.20_1.50,5.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,5.0,ZYX,"(2, 1, 0)",q_only,X1+Y2+Z2,X2+Y2+Z1,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,10.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,10.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,10.0,YXZ,"(1, 0, 2)",q_only,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,10.0,YZX,"(1, 2, 0)",q_only,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,10.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,10.0,ZYX,"(2, 1, 0)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,0.0,XYZ,"(0, 1, 2)",q_only,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,0.0,XZY,"(0, 2, 1)",q_only,X1,X1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,0.0,ZXY,"(2, 0, 1)",q_only,X1,Y1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.0,XYZ,"(0, 1, 2)",q_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.0,XZY,"(0, 2, 1)",q_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.0,ZXY,"(2, 0, 1)",q_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.5,XYZ,"(0, 1, 2)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.05,1.5,XZY,"(0, 2, 1)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.05,1.5,ZXY,"(2, 0, 1)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.05,2.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.05,2.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.05,2.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.05,5.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.05,5.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.05,5.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.05,10.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,10.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.05,10.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.10,0.0,XYZ,"(0, 1, 2)",q_only,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,0.0,XZY,"(0, 2, 1)",q_only,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,0.0,ZXY,"(2, 0, 1)",q_only,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.0,XYZ,"(0, 1, 2)",q_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.0,XZY,"(0, 2, 1)",q_only,Z1,Y1,X1+Y2+Z2,0,"1-axis:(1,)","3-axis:(1, 2, 2)",0
+tet_1.10,1.0,ZXY,"(2, 0, 1)",q_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.5,XYZ,"(0, 1, 2)",q_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.10,1.5,XZY,"(0, 2, 1)",q_only,X1+Y1+Z2,X1+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.10,1.5,ZXY,"(2, 0, 1)",q_only,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+tet_1.10,2.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.10,2.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.10,2.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+tet_1.10,5.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.10,5.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.10,5.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.10,10.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.10,10.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.10,10.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.20,0.0,XYZ,"(0, 1, 2)",q_only,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,0.0,XZY,"(0, 2, 1)",q_only,Y1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,0.0,ZXY,"(2, 0, 1)",q_only,Y1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.0,XYZ,"(0, 1, 2)",q_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.0,XZY,"(0, 2, 1)",q_only,Z1,Y1,X1+Y2+Z2,0,"1-axis:(1,)","3-axis:(1, 2, 2)",0
+tet_1.20,1.0,ZXY,"(2, 0, 1)",q_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.5,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.20,1.5,XZY,"(0, 2, 1)",q_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+tet_1.20,1.5,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.20,2.0,XYZ,"(0, 1, 2)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.20,2.0,XZY,"(0, 2, 1)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.20,2.0,ZXY,"(2, 0, 1)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.20,5.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.20,5.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.20,5.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.20,10.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.20,10.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.20,10.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,0.0,XYZ,"(0, 1, 2)",q_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,0.0,XZY,"(0, 2, 1)",q_only,Z1,Y1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,0.0,ZXY,"(2, 0, 1)",q_only,Z1,X1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.0,XYZ,"(0, 1, 2)",q_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.0,XZY,"(0, 2, 1)",q_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.0,ZXY,"(2, 0, 1)",q_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.5,XYZ,"(0, 1, 2)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.35,1.5,XZY,"(0, 2, 1)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.35,1.5,ZXY,"(2, 0, 1)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.35,2.0,XYZ,"(0, 1, 2)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.35,2.0,XZY,"(0, 2, 1)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.35,2.0,ZXY,"(2, 0, 1)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 2, 2)",0
+tet_1.35,5.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,5.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.35,5.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,10.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,10.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,10.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.50,0.0,XYZ,"(0, 1, 2)",q_only,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,0.0,XZY,"(0, 2, 1)",q_only,Y1,Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,0.0,ZXY,"(2, 0, 1)",q_only,Y1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.0,XYZ,"(0, 1, 2)",q_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.0,XZY,"(0, 2, 1)",q_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.0,ZXY,"(2, 0, 1)",q_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.5,XYZ,"(0, 1, 2)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.50,1.5,XZY,"(0, 2, 1)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.50,1.5,ZXY,"(2, 0, 1)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.50,2.0,XYZ,"(0, 1, 2)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.50,2.0,XZY,"(0, 2, 1)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.50,2.0,ZXY,"(2, 0, 1)",q_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.50,5.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.50,5.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.50,5.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.50,10.0,XYZ,"(0, 1, 2)",q_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.50,10.0,XZY,"(0, 2, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.50,10.0,ZXY,"(2, 0, 1)",q_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+cubic,0.0,XYZ,"(0, 1, 2)",score_iso,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+cubic,1.0,XYZ,"(0, 1, 2)",score_iso,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+cubic,1.5,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+cubic,2.0,XYZ,"(0, 1, 2)",score_iso,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+cubic,5.0,XYZ,"(0, 1, 2)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+cubic,10.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,0.0,XYZ,"(0, 1, 2)",score_iso,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,XZY,"(0, 2, 1)",score_iso,Y1,Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,YXZ,"(1, 0, 2)",score_iso,Y1,X1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,YZX,"(1, 2, 0)",score_iso,Y1,X1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,ZXY,"(2, 0, 1)",score_iso,Y1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,ZYX,"(2, 1, 0)",score_iso,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,XYZ,"(0, 1, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,XZY,"(0, 2, 1)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,YXZ,"(1, 0, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,YZX,"(1, 2, 0)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,ZXY,"(2, 0, 1)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,ZYX,"(2, 1, 0)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,XYZ,"(0, 1, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,XZY,"(0, 2, 1)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,YXZ,"(1, 0, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,YZX,"(1, 2, 0)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,ZXY,"(2, 0, 1)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,ZYX,"(2, 1, 0)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,2.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,XZY,"(0, 2, 1)",score_iso,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,YXZ,"(1, 0, 2)",score_iso,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.05_1.20,2.0,YZX,"(1, 2, 0)",score_iso,X1+Y2+Z1,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.05_1.20,2.0,ZXY,"(2, 0, 1)",score_iso,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.05_1.20,2.0,ZYX,"(2, 1, 0)",score_iso,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.05_1.20,5.0,XYZ,"(0, 1, 2)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+ortho_1.05_1.20,5.0,XZY,"(0, 2, 1)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,YXZ,"(1, 0, 2)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,YZX,"(1, 2, 0)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 2, 2)",0
+ortho_1.05_1.20,5.0,ZXY,"(2, 0, 1)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,ZYX,"(2, 1, 0)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+ortho_1.05_1.20,10.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,10.0,XZY,"(0, 2, 1)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,10.0,YXZ,"(1, 0, 2)",score_iso,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,10.0,YZX,"(1, 2, 0)",score_iso,X1+Y2+Z2,X2+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,10.0,ZXY,"(2, 0, 1)",score_iso,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+ortho_1.05_1.20,10.0,ZYX,"(2, 1, 0)",score_iso,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,0.0,XYZ,"(0, 1, 2)",score_iso,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,XZY,"(0, 2, 1)",score_iso,X1,X1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,YXZ,"(1, 0, 2)",score_iso,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,YZX,"(1, 2, 0)",score_iso,X1,Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,ZXY,"(2, 0, 1)",score_iso,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,ZYX,"(2, 1, 0)",score_iso,X1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,XYZ,"(0, 1, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,XZY,"(0, 2, 1)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,YXZ,"(1, 0, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,YZX,"(1, 2, 0)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,ZXY,"(2, 0, 1)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,ZYX,"(2, 1, 0)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,XYZ,"(0, 1, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,XZY,"(0, 2, 1)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,YXZ,"(1, 0, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,YZX,"(1, 2, 0)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,ZXY,"(2, 0, 1)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,ZYX,"(2, 1, 0)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,2.0,XYZ,"(0, 1, 2)",score_iso,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,2.0,XZY,"(0, 2, 1)",score_iso,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,2.0,YXZ,"(1, 0, 2)",score_iso,X1+Y1+Z2,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,2.0,YZX,"(1, 2, 0)",score_iso,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,2.0,ZXY,"(2, 0, 1)",score_iso,X1+Y1+Z2,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,2.0,ZYX,"(2, 1, 0)",score_iso,X1+Y1+Z2,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,5.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,5.0,XZY,"(0, 2, 1)",score_iso,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,5.0,YXZ,"(1, 0, 2)",score_iso,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,5.0,YZX,"(1, 2, 0)",score_iso,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,5.0,ZXY,"(2, 0, 1)",score_iso,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,5.0,ZYX,"(2, 1, 0)",score_iso,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,10.0,XYZ,"(0, 1, 2)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+ortho_1.10_1.30,10.0,XZY,"(0, 2, 1)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,10.0,YXZ,"(1, 0, 2)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,10.0,YZX,"(1, 2, 0)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,10.0,ZXY,"(2, 0, 1)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,10.0,ZYX,"(2, 1, 0)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+ortho_1.20_1.50,0.0,XYZ,"(0, 1, 2)",score_iso,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,XZY,"(0, 2, 1)",score_iso,X1,X1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,YXZ,"(1, 0, 2)",score_iso,X1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,YZX,"(1, 2, 0)",score_iso,X1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,ZXY,"(2, 0, 1)",score_iso,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,ZYX,"(2, 1, 0)",score_iso,X1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,1.0,XYZ,"(0, 1, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,1.0,XZY,"(0, 2, 1)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,1.0,YXZ,"(1, 0, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,1.0,YZX,"(1, 2, 0)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,1.0,ZXY,"(2, 0, 1)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,1.0,ZYX,"(2, 1, 0)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,1.5,XYZ,"(0, 1, 2)",score_iso,Y1+Z2,Y1+Z2,Y1+Z2,1,"2-axis:(1, 2)","2-axis:(1, 2)",1
+ortho_1.20_1.50,1.5,XZY,"(0, 2, 1)",score_iso,Y1+Z2,Y2+Z1,Y1+Z2,0,"2-axis:(1, 2)","2-axis:(1, 2)",1
+ortho_1.20_1.50,1.5,YXZ,"(1, 0, 2)",score_iso,Y1+Z2,X1+Z2,X1+Z1,0,"2-axis:(1, 2)","2-axis:(1, 1)",0
+ortho_1.20_1.50,1.5,YZX,"(1, 2, 0)",score_iso,Y1+Z2,X1+Y2,X1+Y1,0,"2-axis:(1, 2)","2-axis:(1, 1)",0
+ortho_1.20_1.50,1.5,ZXY,"(2, 0, 1)",score_iso,Y1+Z2,X2+Z1,X1+Z2,0,"2-axis:(1, 2)","2-axis:(1, 2)",1
+ortho_1.20_1.50,1.5,ZYX,"(2, 1, 0)",score_iso,Y1+Z2,X2+Y1,X1+Y1,0,"2-axis:(1, 2)","2-axis:(1, 1)",0
+ortho_1.20_1.50,2.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.20_1.50,2.0,XZY,"(0, 2, 1)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,2.0,YXZ,"(1, 0, 2)",score_iso,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,2.0,YZX,"(1, 2, 0)",score_iso,X1+Y2+Z2,X2+Y2+Z1,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,2.0,ZXY,"(2, 0, 1)",score_iso,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,2.0,ZYX,"(2, 1, 0)",score_iso,X1+Y2+Z2,X2+Y2+Z1,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,5.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,5.0,XZY,"(0, 2, 1)",score_iso,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,5.0,YXZ,"(1, 0, 2)",score_iso,X1+Y2+Z1,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,5.0,YZX,"(1, 2, 0)",score_iso,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,5.0,ZXY,"(2, 0, 1)",score_iso,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,5.0,ZYX,"(2, 1, 0)",score_iso,X1+Y2+Z1,X1+Y2+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,10.0,XYZ,"(0, 1, 2)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+ortho_1.20_1.50,10.0,XZY,"(0, 2, 1)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,10.0,YXZ,"(1, 0, 2)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,10.0,YZX,"(1, 2, 0)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+ortho_1.20_1.50,10.0,ZXY,"(2, 0, 1)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+ortho_1.20_1.50,10.0,ZYX,"(2, 1, 0)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 2, 2)",0
+tet_1.05,0.0,XYZ,"(0, 1, 2)",score_iso,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,0.0,XZY,"(0, 2, 1)",score_iso,X1,X1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,0.0,ZXY,"(2, 0, 1)",score_iso,X1,Y1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.0,XYZ,"(0, 1, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.0,XZY,"(0, 2, 1)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.0,ZXY,"(2, 0, 1)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.5,XYZ,"(0, 1, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.5,XZY,"(0, 2, 1)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.5,ZXY,"(2, 0, 1)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,2.0,XYZ,"(0, 1, 2)",score_iso,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,2.0,XZY,"(0, 2, 1)",score_iso,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,2.0,ZXY,"(2, 0, 1)",score_iso,X1+Y1+Z2,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,5.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.05,5.0,XZY,"(0, 2, 1)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.05,5.0,ZXY,"(2, 0, 1)",score_iso,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.05,10.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,10.0,XZY,"(0, 2, 1)",score_iso,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,10.0,ZXY,"(2, 0, 1)",score_iso,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.10,0.0,XYZ,"(0, 1, 2)",score_iso,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,0.0,XZY,"(0, 2, 1)",score_iso,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,0.0,ZXY,"(2, 0, 1)",score_iso,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.0,XYZ,"(0, 1, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.0,XZY,"(0, 2, 1)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.0,ZXY,"(2, 0, 1)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.5,XYZ,"(0, 1, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.5,XZY,"(0, 2, 1)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.5,ZXY,"(2, 0, 1)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,2.0,XYZ,"(0, 1, 2)",score_iso,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.10,2.0,XZY,"(0, 2, 1)",score_iso,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.10,2.0,ZXY,"(2, 0, 1)",score_iso,X1+Y1+Z2,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.10,5.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.10,5.0,XZY,"(0, 2, 1)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.10,5.0,ZXY,"(2, 0, 1)",score_iso,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+tet_1.10,10.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.10,10.0,XZY,"(0, 2, 1)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.10,10.0,ZXY,"(2, 0, 1)",score_iso,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.20,0.0,XYZ,"(0, 1, 2)",score_iso,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,0.0,XZY,"(0, 2, 1)",score_iso,Y1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,0.0,ZXY,"(2, 0, 1)",score_iso,Y1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.0,XYZ,"(0, 1, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.0,XZY,"(0, 2, 1)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.0,ZXY,"(2, 0, 1)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.5,XYZ,"(0, 1, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.5,XZY,"(0, 2, 1)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.5,ZXY,"(2, 0, 1)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,2.0,XYZ,"(0, 1, 2)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.20,2.0,XZY,"(0, 2, 1)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.20,2.0,ZXY,"(2, 0, 1)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.20,5.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.20,5.0,XZY,"(0, 2, 1)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+tet_1.20,5.0,ZXY,"(2, 0, 1)",score_iso,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.20,10.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.20,10.0,XZY,"(0, 2, 1)",score_iso,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.20,10.0,ZXY,"(2, 0, 1)",score_iso,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,0.0,XYZ,"(0, 1, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,0.0,XZY,"(0, 2, 1)",score_iso,Z1,Y1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,0.0,ZXY,"(2, 0, 1)",score_iso,Z1,X1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.0,XYZ,"(0, 1, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.0,XZY,"(0, 2, 1)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.0,ZXY,"(2, 0, 1)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.5,XYZ,"(0, 1, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.5,XZY,"(0, 2, 1)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.5,ZXY,"(2, 0, 1)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,2.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,2.0,XZY,"(0, 2, 1)",score_iso,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,2.0,ZXY,"(2, 0, 1)",score_iso,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.35,5.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.35,5.0,XZY,"(0, 2, 1)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.35,5.0,ZXY,"(2, 0, 1)",score_iso,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.35,10.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,10.0,XZY,"(0, 2, 1)",score_iso,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,10.0,ZXY,"(2, 0, 1)",score_iso,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.50,0.0,XYZ,"(0, 1, 2)",score_iso,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,0.0,XZY,"(0, 2, 1)",score_iso,Y1,Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,0.0,ZXY,"(2, 0, 1)",score_iso,Y1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.0,XYZ,"(0, 1, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.0,XZY,"(0, 2, 1)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.0,ZXY,"(2, 0, 1)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.5,XYZ,"(0, 1, 2)",score_iso,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.5,XZY,"(0, 2, 1)",score_iso,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.5,ZXY,"(2, 0, 1)",score_iso,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,2.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.50,2.0,XZY,"(0, 2, 1)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.50,2.0,ZXY,"(2, 0, 1)",score_iso,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.50,5.0,XYZ,"(0, 1, 2)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.50,5.0,XZY,"(0, 2, 1)",score_iso,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.50,5.0,ZXY,"(2, 0, 1)",score_iso,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+tet_1.50,10.0,XYZ,"(0, 1, 2)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.50,10.0,XZY,"(0, 2, 1)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.50,10.0,ZXY,"(2, 0, 1)",score_iso,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+cubic,0.0,XYZ,"(0, 1, 2)",score_q,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+cubic,1.0,XYZ,"(0, 1, 2)",score_q,X1+Y1,X1+Y1,X1+Y1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+cubic,1.5,XYZ,"(0, 1, 2)",score_q,X1+Z1,X1+Z1,X1+Z1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+cubic,2.0,XYZ,"(0, 1, 2)",score_q,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+cubic,5.0,XYZ,"(0, 1, 2)",score_q,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+cubic,10.0,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,0.0,XYZ,"(0, 1, 2)",score_q,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,XZY,"(0, 2, 1)",score_q,Y1,Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,YXZ,"(1, 0, 2)",score_q,Y1,X1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,YZX,"(1, 2, 0)",score_q,Y1,X1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,ZXY,"(2, 0, 1)",score_q,Y1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,ZYX,"(2, 1, 0)",score_q,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,XYZ,"(0, 1, 2)",score_q,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,XZY,"(0, 2, 1)",score_q,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,YXZ,"(1, 0, 2)",score_q,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,YZX,"(1, 2, 0)",score_q,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,ZXY,"(2, 0, 1)",score_q,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,ZYX,"(2, 1, 0)",score_q,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,1.5,XZY,"(0, 2, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.05_1.20,1.5,YXZ,"(1, 0, 2)",score_q,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.05_1.20,1.5,YZX,"(1, 2, 0)",score_q,X1+Y2+Z1,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.05_1.20,1.5,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.05_1.20,1.5,ZYX,"(2, 1, 0)",score_q,X1+Y2+Z1,X1+Y2+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.05_1.20,2.0,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,XZY,"(0, 2, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,YXZ,"(1, 0, 2)",score_q,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,YZX,"(1, 2, 0)",score_q,X1+Y2+Z1,X2+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,ZYX,"(2, 1, 0)",score_q,X1+Y2+Z1,X1+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,5.0,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,5.0,XZY,"(0, 2, 1)",score_q,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,YXZ,"(1, 0, 2)",score_q,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,YZX,"(1, 2, 0)",score_q,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,ZYX,"(2, 1, 0)",score_q,X1+Y2+Z2,X2+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,10.0,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,10.0,XZY,"(0, 2, 1)",score_q,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,10.0,YXZ,"(1, 0, 2)",score_q,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,10.0,YZX,"(1, 2, 0)",score_q,X1+Y2+Z2,X2+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,10.0,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+ortho_1.05_1.20,10.0,ZYX,"(2, 1, 0)",score_q,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,0.0,XYZ,"(0, 1, 2)",score_q,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,XZY,"(0, 2, 1)",score_q,X1,X1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,YXZ,"(1, 0, 2)",score_q,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,YZX,"(1, 2, 0)",score_q,X1,Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,ZXY,"(2, 0, 1)",score_q,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,ZYX,"(2, 1, 0)",score_q,X1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,XYZ,"(0, 1, 2)",score_q,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,XZY,"(0, 2, 1)",score_q,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,YXZ,"(1, 0, 2)",score_q,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,YZX,"(1, 2, 0)",score_q,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,ZXY,"(2, 0, 1)",score_q,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,ZYX,"(2, 1, 0)",score_q,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,1.5,XZY,"(0, 2, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,1.5,YXZ,"(1, 0, 2)",score_q,X1+Y2+Z1,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,1.5,YZX,"(1, 2, 0)",score_q,X1+Y2+Z1,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,1.5,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,1.5,ZYX,"(2, 1, 0)",score_q,X1+Y2+Z1,X1+Y2+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,2.0,XYZ,"(0, 1, 2)",score_q,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,2.0,XZY,"(0, 2, 1)",score_q,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,2.0,YXZ,"(1, 0, 2)",score_q,X1+Y1+Z2,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,2.0,YZX,"(1, 2, 0)",score_q,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,2.0,ZXY,"(2, 0, 1)",score_q,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,2.0,ZYX,"(2, 1, 0)",score_q,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,5.0,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,5.0,XZY,"(0, 2, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,5.0,YXZ,"(1, 0, 2)",score_q,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,5.0,YZX,"(1, 2, 0)",score_q,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,5.0,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,5.0,ZYX,"(2, 1, 0)",score_q,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,10.0,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.10_1.30,10.0,XZY,"(0, 2, 1)",score_q,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,10.0,YXZ,"(1, 0, 2)",score_q,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,10.0,YZX,"(1, 2, 0)",score_q,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.10_1.30,10.0,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.10_1.30,10.0,ZYX,"(2, 1, 0)",score_q,X1+Y2+Z2,X2+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,0.0,XYZ,"(0, 1, 2)",score_q,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,XZY,"(0, 2, 1)",score_q,X1,X1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,YXZ,"(1, 0, 2)",score_q,X1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,YZX,"(1, 2, 0)",score_q,X1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,ZXY,"(2, 0, 1)",score_q,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,ZYX,"(2, 1, 0)",score_q,X1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,1.0,XYZ,"(0, 1, 2)",score_q,X1+Z1,X1+Z1,X1+Z1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+ortho_1.20_1.50,1.0,XZY,"(0, 2, 1)",score_q,X1+Z1,X1+Y1,X1+Y1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+ortho_1.20_1.50,1.0,YXZ,"(1, 0, 2)",score_q,X1+Z1,Y1+Z1,Y1+Z2,0,"2-axis:(1, 1)","2-axis:(1, 2)",0
+ortho_1.20_1.50,1.0,YZX,"(1, 2, 0)",score_q,X1+Z1,Y1+Z1,Y1+Z1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+ortho_1.20_1.50,1.0,ZXY,"(2, 0, 1)",score_q,X1+Z1,X1+Y1,X1+Y1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+ortho_1.20_1.50,1.0,ZYX,"(2, 1, 0)",score_q,X1+Z1,X1+Z1,X1+Z2,0,"2-axis:(1, 1)","2-axis:(1, 2)",0
+ortho_1.20_1.50,1.5,XYZ,"(0, 1, 2)",score_q,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,1.5,XZY,"(0, 2, 1)",score_q,X1+Y1+Z2,X1+Y2+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,1.5,YXZ,"(1, 0, 2)",score_q,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,1.5,YZX,"(1, 2, 0)",score_q,X1+Y1+Z2,X1+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,1.5,ZXY,"(2, 0, 1)",score_q,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,1.5,ZYX,"(2, 1, 0)",score_q,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,2.0,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.20_1.50,2.0,XZY,"(0, 2, 1)",score_q,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,2.0,YXZ,"(1, 0, 2)",score_q,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,2.0,YZX,"(1, 2, 0)",score_q,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.20_1.50,2.0,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,2.0,ZYX,"(2, 1, 0)",score_q,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.20_1.50,5.0,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,5.0,XZY,"(0, 2, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,5.0,YXZ,"(1, 0, 2)",score_q,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,5.0,YZX,"(1, 2, 0)",score_q,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,5.0,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,5.0,ZYX,"(2, 1, 0)",score_q,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,10.0,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,10.0,XZY,"(0, 2, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,10.0,YXZ,"(1, 0, 2)",score_q,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,10.0,YZX,"(1, 2, 0)",score_q,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,10.0,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,10.0,ZYX,"(2, 1, 0)",score_q,X1+Y2+Z1,X1+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,0.0,XYZ,"(0, 1, 2)",score_q,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,0.0,XZY,"(0, 2, 1)",score_q,X1,X1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,0.0,ZXY,"(2, 0, 1)",score_q,X1,Y1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.0,XYZ,"(0, 1, 2)",score_q,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.0,XZY,"(0, 2, 1)",score_q,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.0,ZXY,"(2, 0, 1)",score_q,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.5,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,1.5,XZY,"(0, 2, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+tet_1.05,1.5,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,Y1+Z1,0,"3-axis:(1, 1, 2)","2-axis:(1, 1)",0
+tet_1.05,2.0,XYZ,"(0, 1, 2)",score_q,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,2.0,XZY,"(0, 2, 1)",score_q,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,2.0,ZXY,"(2, 0, 1)",score_q,X1+Y1+Z2,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.05,5.0,XYZ,"(0, 1, 2)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.05,5.0,XZY,"(0, 2, 1)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.05,5.0,ZXY,"(2, 0, 1)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 2, 2)",0
+tet_1.05,10.0,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.05,10.0,XZY,"(0, 2, 1)",score_q,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+tet_1.05,10.0,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.10,0.0,XYZ,"(0, 1, 2)",score_q,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,0.0,XZY,"(0, 2, 1)",score_q,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,0.0,ZXY,"(2, 0, 1)",score_q,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.0,XYZ,"(0, 1, 2)",score_q,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.0,XZY,"(0, 2, 1)",score_q,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.0,ZXY,"(2, 0, 1)",score_q,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.5,XYZ,"(0, 1, 2)",score_q,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.10,1.5,XZY,"(0, 2, 1)",score_q,X1+Y1+Z2,X1+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.10,1.5,ZXY,"(2, 0, 1)",score_q,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+tet_1.10,2.0,XYZ,"(0, 1, 2)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.10,2.0,XZY,"(0, 2, 1)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.10,2.0,ZXY,"(2, 0, 1)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.10,5.0,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.10,5.0,XZY,"(0, 2, 1)",score_q,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.10,5.0,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.10,10.0,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.10,10.0,XZY,"(0, 2, 1)",score_q,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+tet_1.10,10.0,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.20,0.0,XYZ,"(0, 1, 2)",score_q,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,0.0,XZY,"(0, 2, 1)",score_q,Y1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,0.0,ZXY,"(2, 0, 1)",score_q,Y1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.0,XYZ,"(0, 1, 2)",score_q,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.0,XZY,"(0, 2, 1)",score_q,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.0,ZXY,"(2, 0, 1)",score_q,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.5,XYZ,"(0, 1, 2)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.20,1.5,XZY,"(0, 2, 1)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.20,1.5,ZXY,"(2, 0, 1)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.20,2.0,XYZ,"(0, 1, 2)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.20,2.0,XZY,"(0, 2, 1)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.20,2.0,ZXY,"(2, 0, 1)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.20,5.0,XYZ,"(0, 1, 2)",score_q,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.20,5.0,XZY,"(0, 2, 1)",score_q,X1+Y1+Z2,X1+Y2+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+tet_1.20,5.0,ZXY,"(2, 0, 1)",score_q,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+tet_1.20,10.0,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.20,10.0,XZY,"(0, 2, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.20,10.0,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,0.0,XYZ,"(0, 1, 2)",score_q,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,0.0,XZY,"(0, 2, 1)",score_q,Z1,Y1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,0.0,ZXY,"(2, 0, 1)",score_q,Z1,X1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.0,XYZ,"(0, 1, 2)",score_q,Y1+Z2,Y1+Z2,Y1+Z2,1,"2-axis:(1, 2)","2-axis:(1, 2)",1
+tet_1.35,1.0,XZY,"(0, 2, 1)",score_q,Y1+Z2,Y2+Z1,Y1+Z2,0,"2-axis:(1, 2)","2-axis:(1, 2)",1
+tet_1.35,1.0,ZXY,"(2, 0, 1)",score_q,Y1+Z2,X2+Z1,X1+Z1,0,"2-axis:(1, 2)","2-axis:(1, 1)",0
+tet_1.35,1.5,XYZ,"(0, 1, 2)",score_q,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,1.5,XZY,"(0, 2, 1)",score_q,X1+Y1+Z2,X1+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,1.5,ZXY,"(2, 0, 1)",score_q,X1+Y1+Z2,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,2.0,XYZ,"(0, 1, 2)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.35,2.0,XZY,"(0, 2, 1)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.35,2.0,ZXY,"(2, 0, 1)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.35,5.0,XYZ,"(0, 1, 2)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.35,5.0,XZY,"(0, 2, 1)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.35,5.0,ZXY,"(2, 0, 1)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 2, 2)",0
+tet_1.35,10.0,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,10.0,XZY,"(0, 2, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+tet_1.35,10.0,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.50,0.0,XYZ,"(0, 1, 2)",score_q,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,0.0,XZY,"(0, 2, 1)",score_q,Y1,Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,0.0,ZXY,"(2, 0, 1)",score_q,Y1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.0,XYZ,"(0, 1, 2)",score_q,X1+Z1,X1+Z1,X1+Z1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+tet_1.50,1.0,XZY,"(0, 2, 1)",score_q,X1+Z1,X1+Y1,X1+Y1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+tet_1.50,1.0,ZXY,"(2, 0, 1)",score_q,X1+Z1,X1+Y1,X1+Z2,0,"2-axis:(1, 1)","2-axis:(1, 2)",0
+tet_1.50,1.5,XYZ,"(0, 1, 2)",score_q,X1+Z1,X1+Z1,X1+Z1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+tet_1.50,1.5,XZY,"(0, 2, 1)",score_q,X1+Z1,X1+Y1,X1+Y1+Z1,0,"2-axis:(1, 1)","3-axis:(1, 1, 1)",0
+tet_1.50,1.5,ZXY,"(2, 0, 1)",score_q,X1+Z1,X1+Y1,X1+Z2,0,"2-axis:(1, 1)","2-axis:(1, 2)",0
+tet_1.50,2.0,XYZ,"(0, 1, 2)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.50,2.0,XZY,"(0, 2, 1)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.50,2.0,ZXY,"(2, 0, 1)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.50,5.0,XYZ,"(0, 1, 2)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.50,5.0,XZY,"(0, 2, 1)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.50,5.0,ZXY,"(2, 0, 1)",score_q,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.50,10.0,XYZ,"(0, 1, 2)",score_q,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.50,10.0,XZY,"(0, 2, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.50,10.0,ZXY,"(2, 0, 1)",score_q,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+cubic,0.0,XYZ,"(0, 1, 2)",xyz_only,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+cubic,1.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y1,X1+Y1,X1+Y1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+cubic,1.5,XYZ,"(0, 1, 2)",xyz_only,X1+Z1,X1+Z1,X1+Z1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+cubic,2.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+cubic,5.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+cubic,10.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,0.0,XYZ,"(0, 1, 2)",xyz_only,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,XZY,"(0, 2, 1)",xyz_only,Y1,Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,YXZ,"(1, 0, 2)",xyz_only,Y1,X1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,YZX,"(1, 2, 0)",xyz_only,Y1,X1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,ZXY,"(2, 0, 1)",xyz_only,Y1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,0.0,ZYX,"(2, 1, 0)",xyz_only,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,XYZ,"(0, 1, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,XZY,"(0, 2, 1)",xyz_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,YXZ,"(1, 0, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,YZX,"(1, 2, 0)",xyz_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,ZXY,"(2, 0, 1)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.0,ZYX,"(2, 1, 0)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,XYZ,"(0, 1, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,XZY,"(0, 2, 1)",xyz_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,YXZ,"(1, 0, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,YZX,"(1, 2, 0)",xyz_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,ZXY,"(2, 0, 1)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,1.5,ZYX,"(2, 1, 0)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.05_1.20,2.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.05_1.20,2.0,YXZ,"(1, 0, 2)",xyz_only,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.05_1.20,2.0,YZX,"(1, 2, 0)",xyz_only,X1+Y2+Z1,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.05_1.20,2.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.05_1.20,2.0,ZYX,"(2, 1, 0)",xyz_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.05_1.20,5.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,5.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,YXZ,"(1, 0, 2)",xyz_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,YZX,"(1, 2, 0)",xyz_only,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,5.0,ZYX,"(2, 1, 0)",xyz_only,X1+Y2+Z2,X2+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,10.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,10.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,10.0,YXZ,"(1, 0, 2)",xyz_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.05_1.20,10.0,YZX,"(1, 2, 0)",xyz_only,X1+Y2+Z2,X2+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.05_1.20,10.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+ortho_1.05_1.20,10.0,ZYX,"(2, 1, 0)",xyz_only,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,0.0,XYZ,"(0, 1, 2)",xyz_only,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,XZY,"(0, 2, 1)",xyz_only,X1,X1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,YXZ,"(1, 0, 2)",xyz_only,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,YZX,"(1, 2, 0)",xyz_only,X1,Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,ZXY,"(2, 0, 1)",xyz_only,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,0.0,ZYX,"(2, 1, 0)",xyz_only,X1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,XYZ,"(0, 1, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,XZY,"(0, 2, 1)",xyz_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,YXZ,"(1, 0, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,YZX,"(1, 2, 0)",xyz_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,ZXY,"(2, 0, 1)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.0,ZYX,"(2, 1, 0)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,XYZ,"(0, 1, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,XZY,"(0, 2, 1)",xyz_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,YXZ,"(1, 0, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,YZX,"(1, 2, 0)",xyz_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,ZXY,"(2, 0, 1)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,1.5,ZYX,"(2, 1, 0)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.10_1.30,2.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,2.0,XZY,"(0, 2, 1)",xyz_only,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,2.0,YXZ,"(1, 0, 2)",xyz_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,2.0,YZX,"(1, 2, 0)",xyz_only,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,2.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y1+Z2,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,2.0,ZYX,"(2, 1, 0)",xyz_only,X1+Y1+Z2,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,5.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,5.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,5.0,YXZ,"(1, 0, 2)",xyz_only,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,5.0,YZX,"(1, 2, 0)",xyz_only,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.10_1.30,5.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.10_1.30,5.0,ZYX,"(2, 1, 0)",xyz_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.10_1.30,10.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.10_1.30,10.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,10.0,YXZ,"(1, 0, 2)",xyz_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.10_1.30,10.0,YZX,"(1, 2, 0)",xyz_only,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.10_1.30,10.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.10_1.30,10.0,ZYX,"(2, 1, 0)",xyz_only,X1+Y2+Z2,X2+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,0.0,XYZ,"(0, 1, 2)",xyz_only,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,XZY,"(0, 2, 1)",xyz_only,X1,X1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,YXZ,"(1, 0, 2)",xyz_only,X1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,YZX,"(1, 2, 0)",xyz_only,X1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,ZXY,"(2, 0, 1)",xyz_only,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,0.0,ZYX,"(2, 1, 0)",xyz_only,X1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+ortho_1.20_1.50,1.0,XYZ,"(0, 1, 2)",xyz_only,X1+Z1,X1+Z1,X1+Z1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+ortho_1.20_1.50,1.0,XZY,"(0, 2, 1)",xyz_only,X1+Z1,X1+Y1,X1+Y1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+ortho_1.20_1.50,1.0,YXZ,"(1, 0, 2)",xyz_only,X1+Z1,Y1+Z1,Y1+Z2,0,"2-axis:(1, 1)","2-axis:(1, 2)",0
+ortho_1.20_1.50,1.0,YZX,"(1, 2, 0)",xyz_only,X1+Z1,Y1+Z1,Y1+Z1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+ortho_1.20_1.50,1.0,ZXY,"(2, 0, 1)",xyz_only,X1+Z1,X1+Y1,X1+Y1,1,"2-axis:(1, 1)","2-axis:(1, 1)",1
+ortho_1.20_1.50,1.0,ZYX,"(2, 1, 0)",xyz_only,X1+Z1,X1+Z1,X1+Z2,0,"2-axis:(1, 1)","2-axis:(1, 2)",0
+ortho_1.20_1.50,1.5,XYZ,"(0, 1, 2)",xyz_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,1.5,XZY,"(0, 2, 1)",xyz_only,X1+Y1+Z2,X1+Y2+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,1.5,YXZ,"(1, 0, 2)",xyz_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,1.5,YZX,"(1, 2, 0)",xyz_only,X1+Y1+Z2,X1+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,1.5,ZXY,"(2, 0, 1)",xyz_only,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,1.5,ZYX,"(2, 1, 0)",xyz_only,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,2.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.20_1.50,2.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,2.0,YXZ,"(1, 0, 2)",xyz_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+ortho_1.20_1.50,2.0,YZX,"(1, 2, 0)",xyz_only,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.20_1.50,2.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,2.0,ZYX,"(2, 1, 0)",xyz_only,X1+Y2+Z2,X2+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+ortho_1.20_1.50,5.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,5.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,5.0,YXZ,"(1, 0, 2)",xyz_only,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,5.0,YZX,"(1, 2, 0)",xyz_only,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,5.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+ortho_1.20_1.50,5.0,ZYX,"(2, 1, 0)",xyz_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,10.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,10.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,10.0,YXZ,"(1, 0, 2)",xyz_only,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+ortho_1.20_1.50,10.0,YZX,"(1, 2, 0)",xyz_only,X1+Y2+Z1,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,10.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+ortho_1.20_1.50,10.0,ZYX,"(2, 1, 0)",xyz_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,0.0,XYZ,"(0, 1, 2)",xyz_only,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,0.0,XZY,"(0, 2, 1)",xyz_only,X1,X1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,0.0,ZXY,"(2, 0, 1)",xyz_only,X1,Y1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.0,XYZ,"(0, 1, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.0,XZY,"(0, 2, 1)",xyz_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.0,ZXY,"(2, 0, 1)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.5,XYZ,"(0, 1, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.5,XZY,"(0, 2, 1)",xyz_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,1.5,ZXY,"(2, 0, 1)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.05,2.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,2.0,XZY,"(0, 2, 1)",xyz_only,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,2.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y1+Z2,X2+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,5.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.05,5.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.05,5.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.05,10.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.05,10.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+tet_1.05,10.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.10,0.0,XYZ,"(0, 1, 2)",xyz_only,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,0.0,XZY,"(0, 2, 1)",xyz_only,X1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,0.0,ZXY,"(2, 0, 1)",xyz_only,X1,Y1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.0,XYZ,"(0, 1, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.0,XZY,"(0, 2, 1)",xyz_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.0,ZXY,"(2, 0, 1)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.5,XYZ,"(0, 1, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,1.5,XZY,"(0, 2, 1)",xyz_only,Z1,Y1,X1+Y1+Z2,0,"1-axis:(1,)","3-axis:(1, 1, 2)",0
+tet_1.10,1.5,ZXY,"(2, 0, 1)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.10,2.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.10,2.0,XZY,"(0, 2, 1)",xyz_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.10,2.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y2+Z1,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.10,5.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.10,5.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.10,5.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.10,10.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.10,10.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+tet_1.10,10.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.20,0.0,XYZ,"(0, 1, 2)",xyz_only,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,0.0,XZY,"(0, 2, 1)",xyz_only,Y1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,0.0,ZXY,"(2, 0, 1)",xyz_only,Y1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.0,XYZ,"(0, 1, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.0,XZY,"(0, 2, 1)",xyz_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.0,ZXY,"(2, 0, 1)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.5,XYZ,"(0, 1, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.5,XZY,"(0, 2, 1)",xyz_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,1.5,ZXY,"(2, 0, 1)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.20,2.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.20,2.0,XZY,"(0, 2, 1)",xyz_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z1,1,"3-axis:(1, 1, 1)","3-axis:(1, 1, 1)",1
+tet_1.20,2.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y1+Z1,X1+Y1+Z1,X1+Y1+Z2,0,"3-axis:(1, 1, 1)","3-axis:(1, 1, 2)",0
+tet_1.20,5.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.20,5.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y1+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 1)",0
+tet_1.20,5.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.20,10.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.20,10.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.20,10.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,0.0,XYZ,"(0, 1, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,0.0,XZY,"(0, 2, 1)",xyz_only,Z1,Y1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,0.0,ZXY,"(2, 0, 1)",xyz_only,Z1,X1,Z1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.0,XYZ,"(0, 1, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.0,XZY,"(0, 2, 1)",xyz_only,Z1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.0,ZXY,"(2, 0, 1)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.35,1.5,XYZ,"(0, 1, 2)",xyz_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,1.5,XZY,"(0, 2, 1)",xyz_only,X1+Y1+Z2,X1+Y2+Z1,Y1,0,"3-axis:(1, 1, 2)","1-axis:(1,)",0
+tet_1.35,1.5,ZXY,"(2, 0, 1)",xyz_only,X1+Y1+Z2,X2+Y1+Z1,X1,0,"3-axis:(1, 1, 2)","1-axis:(1,)",0
+tet_1.35,2.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,2.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,2.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.35,5.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.35,5.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.35,5.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y1+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.35,10.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z1,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,10.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.35,10.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z1,X1+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.50,0.0,XYZ,"(0, 1, 2)",xyz_only,Y1,Y1,Y1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,0.0,XZY,"(0, 2, 1)",xyz_only,Y1,Z1,X1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,0.0,ZXY,"(2, 0, 1)",xyz_only,Y1,Z1,Y1,0,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.0,XYZ,"(0, 1, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.0,XZY,"(0, 2, 1)",xyz_only,Z1,Y1,X1+Y1,0,"1-axis:(1,)","2-axis:(1, 1)",0
+tet_1.50,1.0,ZXY,"(2, 0, 1)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.5,XYZ,"(0, 1, 2)",xyz_only,Z1,Z1,Z1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,1.5,XZY,"(0, 2, 1)",xyz_only,Z1,Y1,X1+Y1+Z1,0,"1-axis:(1,)","3-axis:(1, 1, 1)",0
+tet_1.50,1.5,ZXY,"(2, 0, 1)",xyz_only,Z1,X1,X1,1,"1-axis:(1,)","1-axis:(1,)",1
+tet_1.50,2.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.50,2.0,XZY,"(0, 2, 1)",xyz_only,X1+Y1+Z2,X1+Y2+Z1,X1+Y2+Z1,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.50,2.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y1+Z2,X2+Y1+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+tet_1.50,5.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y1+Z2,X1+Y1+Z2,X1+Y1+Z2,1,"3-axis:(1, 1, 2)","3-axis:(1, 1, 2)",1
+tet_1.50,5.0,XZY,"(0, 2, 1)",xyz_only,X1+Y1+Z2,X1+Y2+Z1,X1+Y1+Z1,0,"3-axis:(1, 1, 2)","3-axis:(1, 1, 1)",0
+tet_1.50,5.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y1+Z2,X2+Y1+Z1,X1+Y2+Z2,0,"3-axis:(1, 1, 2)","3-axis:(1, 2, 2)",0
+tet_1.50,10.0,XYZ,"(0, 1, 2)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z2,1,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1
+tet_1.50,10.0,XZY,"(0, 2, 1)",xyz_only,X1+Y2+Z2,X1+Y2+Z2,X1+Y2+Z1,0,"3-axis:(1, 2, 2)","3-axis:(1, 1, 2)",0
+tet_1.50,10.0,ZXY,"(2, 0, 1)",xyz_only,X1+Y2+Z2,X2+Y1+Z2,X1+Y2+Z2,0,"3-axis:(1, 2, 2)","3-axis:(1, 2, 2)",1

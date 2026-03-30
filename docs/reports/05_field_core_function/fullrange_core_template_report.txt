@@ -1,0 +1,39 @@
+Full-range inner-core template scan over normalized levels 0.05..0.95
+
+Global winner shares among valid bands (%):
+winner
+closed    92.78
+axial      6.85
+square     0.29
+cube       0.08
+
+Transition-band focus (0.75..0.86):
+beta=0:
+  strongest closed dominance: t=0.75, closed_frac=1.000
+  weakest closed / strongest nonclosed: t=0.75, closed_frac=1.000, axial_frac=0.000, square_frac=0.000, cube_frac=0.000
+  highest mean axial score: t=0.79, closed_score=1.000, axial_score=0.024, square_score=0.047, cube_score=0.071
+
+beta=1:
+  strongest closed dominance: t=0.77, closed_frac=0.972
+  weakest closed / strongest nonclosed: t=0.76, closed_frac=0.889, axial_frac=0.111, square_frac=0.000, cube_frac=0.000
+  highest mean axial score: t=0.80, closed_score=0.673, axial_score=0.113, square_score=0.075, cube_score=0.098
+
+beta=1.5:
+  strongest closed dominance: t=0.78, closed_frac=0.917
+  weakest closed / strongest nonclosed: t=0.86, closed_frac=0.500, axial_frac=0.500, square_frac=0.000, cube_frac=0.000
+  highest mean axial score: t=0.86, closed_score=0.426, axial_score=0.252, square_score=0.031, cube_score=0.114
+
+beta=2:
+  strongest closed dominance: t=0.75, closed_frac=0.971
+  weakest closed / strongest nonclosed: t=0.85, closed_frac=0.556, axial_frac=0.417, square_frac=0.000, cube_frac=0.028
+  highest mean axial score: t=0.83, closed_score=0.497, axial_score=0.228, square_score=0.056, cube_score=0.127
+
+beta=5:
+  strongest closed dominance: t=0.78, closed_frac=0.972
+  weakest closed / strongest nonclosed: t=0.83, closed_frac=0.853, axial_frac=0.088, square_frac=0.059, cube_frac=0.000
+  highest mean axial score: t=0.82, closed_score=0.488, axial_score=0.133, square_score=0.053, cube_score=0.090
+
+beta=10:
+  strongest closed dominance: t=0.76, closed_frac=1.000
+  weakest closed / strongest nonclosed: t=0.85, closed_frac=0.906, axial_frac=0.094, square_frac=0.000, cube_frac=0.000
+  highest mean axial score: t=0.81, closed_score=0.508, axial_score=0.112, square_score=0.051, cube_score=0.085

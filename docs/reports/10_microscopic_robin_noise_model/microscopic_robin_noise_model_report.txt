@@ -1,0 +1,79 @@
+Mikroskopischer Robin-Rauschtest gegen die empirischen Koeffizienten a,b
+======================================================================
+
+Ziel
+----
+Geprüft wurde, ob die empirische Detektorformel
+    V(mu,sigma) = V0 * mu * exp(-a*sigma - b*sigma^2)
+mit a = 0.175620, b = 0.186489
+aus einfachen mikroskopischen Robin-Störmodellen hervorgehen kann.
+
+Getestete Mikromodelle
+----------------------
+1) pure_phase:
+   Lokaler Spalttransfer t = exp(i*k*delta_beta)
+   Erwartung: nur quadratische sigma-Unterdrückung.
+
+2) pure_magnitude:
+   Lokaler Spalttransfer t = exp(-g*|delta_beta|)
+   Erwartung: primär lineare sigma-Unterdrückung.
+
+3) mixed_local:
+   Lokaler Spalttransfer t = exp(-g*|delta_beta| + i*k*delta_beta)
+   Erwartung: lineare + quadratische Unterdrückung.
+
+4) mixed_segmented:
+   Wie mixed_local, aber als korreliertes segmentiertes Spaltmodell mit
+   exponentieller Korrelation entlang des Spalts.
+
+Beste Fits
+----------
+pure_phase:
+  k_phase = 0.600
+  refit a = -0.000000, b = 0.180000, dist_ab = 0.175740
+
+pure_magnitude:
+  g_abs = 0.198
+  refit a = 0.157574, b = -0.006051, dist_ab = 0.193384
+
+mixed_local:
+  g_abs = 0.100, k_phase = 0.760
+  refit a = 0.176115, b = 0.190022, dist_ab = 0.003567
+  refit curve quality: R^2 = 0.999224, MAE = 0.006318
+
+mixed_segmented:
+  g_abs = 0.100, k_phase = 0.760, rho_corr = 0.10
+  refit a = 0.176111, b = 0.188239, dist_ab = 0.001817
+  refit curve quality: R^2 = 0.999203, MAE = 0.006163
+
+Kernergebnis
+------------
+Das reine Phasenmodell reproduziert praktisch nur den quadratischen Term b.
+Das reine Betrag/Absorptionsmodell reproduziert primär den linearen Term a.
+
+Erst das gemischte Mikromodell
+    t = exp(-g*|delta_beta| + i*k*delta_beta)
+liefert gleichzeitig einen linearen und einen quadratischen Dämpfungsterm
+in nahezu exakt der empirisch beobachteten Größenordnung.
+
+Im besten lokalen Modell ergeben sich:
+    a = 0.176115  (empirisch 0.175620)
+    b = 0.190022  (empirisch 0.186489)
+
+Interpretation
+--------------
+Damit gibt es jetzt einen konkreten mikroskopischen Kandidaten:
+- |delta_beta| koppelt als lokale impedanz-/verlustartige Störung linear in sigma,
+- delta_beta koppelt als zufällige Phasenstörung quadratisch in sigma,
+- beides zusammen erzeugt genau die effektive Unterdrückungsform exp(-a*sigma - b*sigma^2).
+
+Das segmentierte, korrelierte Spaltmodell zeigt, dass diese Aussage robust bleibt;
+die Korrelation entlang des Spalts ändert die Koeffizienten nur moderat, zerstört
+die Grundform aber nicht.
+
+Ehrliche Grenze
+---------------
+Dies ist noch kein vollständiges mikroskopisches Detektormodell.
+Es ist aber ein deutlich stärkerer Befund als ein bloßer Fit:
+ein einfaches lokales Robin-Rauschgesetz reproduziert bereits die beobachteten
+empirischen Koeffizienten in sehr guter Näherung.

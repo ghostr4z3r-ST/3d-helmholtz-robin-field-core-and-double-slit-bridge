@@ -1,0 +1,39 @@
+Test 1: Bound/free transition scan in the normalized Helmholtz-Robin field
+
+Method
+- Scan target levels t in the normalized field.
+- For each t, compare same-level inner/outer coupling against carrier-vs-space separation.
+- Use transition_combo_exc as the joint indicator for a bound→space split.
+
+Global result
+ target  same_sector  carrier_vs_space_sector  transition_combo_exc
+   0.84     0.849522                 0.011318              0.863372
+   0.80     0.831241                -0.019488              0.831579
+   0.61     0.801929                -0.074634              0.825980
+   0.65     0.804062                -0.059749              0.820876
+   0.77     0.833085                -0.030855              0.812500
+   0.66     0.800268                -0.045691              0.811321
+   0.81     0.834533                -0.008066              0.808511
+   0.74     0.793426                -0.044330              0.800000
+   0.73     0.803472                -0.026722              0.797872
+   0.79     0.824318                -0.018541              0.792793
+
+Per-beta peak levels
+ beta  target  same_sector  carrier_vs_space_sector  transition_combo_exc   inner_r   outer_r      gap
+  0.0    0.75     0.995612                 0.011989              1.000000 10.136567 10.897247 0.760680
+  1.0    0.85     0.903520                 0.005882              1.000000  8.179812 10.125719 1.945907
+  1.5    0.80     0.917571                 0.053261              0.887500  6.857398  8.503635 1.646237
+  2.0    0.77     0.846110                 0.025635              0.880435  6.485950  8.674874 2.188924
+  5.0    0.81     0.889383                 0.013360              0.955357  5.349279  7.502587 2.153307
+ 10.0    0.79     0.894218                 0.092483              0.968750  5.469497  6.810630 1.341133
+
+Interpretation
+- A real carrier level is already visible around t≈0.75.
+- The clearest bound→space transition is usually slightly higher, mostly in t≈0.77–0.85.
+- Across beta, the strongest split levels are:
+  beta=0.0: t=0.75, combo_exceed=1.000
+  beta=1.0: t=0.85, combo_exceed=1.000
+  beta=1.5: t=0.80, combo_exceed=0.887
+  beta=2.0: t=0.77, combo_exceed=0.880
+  beta=5.0: t=0.81, combo_exceed=0.955
+  beta=10.0: t=0.79, combo_exceed=0.969

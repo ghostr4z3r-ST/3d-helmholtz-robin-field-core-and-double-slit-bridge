@@ -1,0 +1,2 @@
+case,screen_x,central_peak_y,screen_fwhm,screen_symmetry,transmission_post_barrier,blocked_post_barrier,transmission_ratio_vs_blocked,carrier_frac_global_ge_075,transition_frac_global_077_085,carrier_frac_post_barrier_ge_075,transition_frac_post_barrier_077_085
+one_slit_baseline_2D_helmholtz,0.8585858585858587,0.0,0.617142857142857,1.0,1.721773260133485e-05,2.6235378176455996e-07,65.62791847531395,0.01591549295774648,0.006901408450704225,0.0,0.0

@@ -1,0 +1,4 @@
+target,best_features,loocv_r2,mae,interpretation
+pair_specificity,E_opp | F_opp,0.29253851807841813,0.12627224998072487,graph closes moderately onto opposite-pair selection
+bridge_shape,EF_inc,0.07149393418967054,0.14197218177338233,graph closes only weakly onto exact bridge geometry
+phase_from_graph_only,CF_inc | L_align,,,graph-only LOOCV acc = 0.611; graph alone is not yet a full phase surrogate

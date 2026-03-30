@@ -1,0 +1,22 @@
+Doppelspalt mit explizit räumlich variierendem Robin-Profil am einen Spalt
+
+Modelldeutung
+- kohärente Basis: idealer Doppelspalt ohne Detektor
+- center/edge/gradient/patchy: deterministische Robin-Profile beta(y) am oberen Spalt
+- fluct: dasselbe Profil mit mikroskopisch unaufgelöster zeitlicher Fluktuation beta(y,t)
+- fluct+loss: zusätzlich kleiner lokaler Verlustkanal
+
+coherent_baseline: visibility=0.982 fringes=5 trans_ratio=1.000 asym=0.000 corr_to_incoh=0.737
+center_profile_det: visibility=0.977 fringes=7 trans_ratio=0.968 asym=-0.007 corr_to_incoh=0.720
+edge_profile_det: visibility=0.974 fringes=8 trans_ratio=0.956 asym=0.004 corr_to_incoh=0.724
+gradient_profile_det: visibility=0.935 fringes=7 trans_ratio=0.971 asym=0.197 corr_to_incoh=0.724
+patchy_profile_det: visibility=0.976 fringes=6 trans_ratio=0.958 asym=0.020 corr_to_incoh=0.731
+center_profile_fluct: visibility=0.849 fringes=7 trans_ratio=0.775 asym=-0.117 corr_to_incoh=0.746
+edge_profile_fluct: visibility=0.864 fringes=8 trans_ratio=0.787 asym=-0.129 corr_to_incoh=0.734
+patchy_profile_fluct_loss: visibility=0.797 fringes=6 trans_ratio=0.715 asym=-0.147 corr_to_incoh=0.762
+incoherent_reference: visibility=nan fringes=1 trans_ratio=0.998 asym=-0.000 corr_to_incoh=1.000
+
+Kurzlesung
+- Deterministische räumliche Robin-Profile allein erhalten die Interferenz weitgehend; sie erzeugen vor allem Formänderung und im Gradient-Fall deutliche Asymmetrie.
+- Die gleiche Profilgeometrie mit starker zeitlicher Fluktuation drückt die Sichtbarkeit deutlich stärker.
+- Das spricht dafür, dass ein realistischer Detektor nicht nur ein festes beta(y), sondern zusätzlich unaufgelöste Mikrostörung und ggf. kleinen Verlustkanal einbringt.

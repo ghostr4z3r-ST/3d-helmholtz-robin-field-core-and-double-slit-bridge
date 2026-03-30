@@ -1,0 +1,38 @@
+Double-slit with explicit local Robin modification at slit walls
+
+Model
+- 2D slit-channel Helmholtz surrogate
+- each slit treated as a short channel of width a and thickness L
+- slit-wall boundary condition: ∂n u + β u = 0 on the slit walls
+- channel output uses the fundamental Robin transverse mode q tan(q a/2)=β
+- coherent propagation from slit exit to screen via Fresnel kernel
+
+Summary
+- Deterministic real Robin changes mostly preserve fringes until the modified slit approaches cutoff; then the pattern collapses mainly because that slit is nearly blocked.
+- Stochastic local Robin fluctuations at one slit suppress fringe visibility continuously and move the screen profile toward the incoherent slit-sum.
+
+coherent_beta0: beta_upper=0.0, transmission=7.290415e-02, slit2_trans=3.645207e-02, visibility=0.9856645453598941, fringes=5, corr_to_ref=0.491816
+
+real_beta60_upper: beta_upper=60.0, transmission=7.200166e-02, slit2_trans=3.554958e-02, visibility=0.9898553784388434, fringes=5, corr_to_ref=0.471421
+
+real_beta100_upper: beta_upper=100.0, transmission=7.131533e-02, slit2_trans=3.486325e-02, visibility=0.9924989867352231, fringes=5, corr_to_ref=0.461693
+
+real_beta150_upper: beta_upper=150.0, transmission=3.790158e-02, slit2_trans=1.449505e-03, visibility=0.0012140641901447282, fringes=4, corr_to_ref=0.735926
+
+real_beta200_upper: beta_upper=200.0, transmission=3.667607e-02, slit2_trans=2.239997e-04, visibility=nan, fringes=1, corr_to_ref=0.756280
+
+stochastic_sigma0: sigma_im_beta=0.0, mean_trans=7.290415e-02, visibility=0.9856645453598941, fringes=5, corr_to_ref=0.491816
+
+stochastic_sigma10: sigma_im_beta=10.0, mean_trans=7.314416e-02, visibility=0.9844265604338304, fringes=5, corr_to_ref=0.492416
+
+stochastic_sigma30: sigma_im_beta=30.0, mean_trans=7.154952e-02, visibility=0.9791028660183724, fringes=5, corr_to_ref=0.493508
+
+stochastic_sigma60: sigma_im_beta=60.0, mean_trans=7.359367e-02, visibility=0.953783535301275, fringes=5, corr_to_ref=0.500246
+
+stochastic_sigma100: sigma_im_beta=100.0, mean_trans=8.476027e-02, visibility=0.8972536683868666, fringes=5, corr_to_ref=0.514693
+
+incoherent_reference: visibility=nan, fringes=1, corr_to_ref=1.000000
+
+Interpretation
+- A purely deterministic local Robin change is not enough to generically erase interference; it mainly phase-shifts or attenuates one slit.
+- A local Robin coupling that fluctuates microscopically / remains unresolved at one slit produces effective decoherence and drives the profile toward the incoherent slit-sum.

@@ -1,0 +1,24 @@
+Doppelspalt-Baseline im 2D-Helmholtz/Fresnel-Surrogat
+
+Aufbau
+- gleiche Rechteckgeometrie wie die Einspalt-Baseline
+- interne Wand bei x=0.430
+- Schirmauslese bei x=0.859
+- zwei kohärente Aperturen ohne Messstörung
+- Spaltbreite a=0.036
+- Spaltabstand d=0.120
+- Wellenlänge λ=0.030
+
+Wesentliche Kennzahlen
+- zentrales Maximum auf dem Schirm bei y=0.000000
+- sichtbare Fransen (Peakzahl >=5%): 7
+- mittlere zentrale Fransenabstände: 0.103680
+- zentrale Sichtbarkeit V=(Imax-Imin)/(Imax+Imin): 0.986418
+- integrierte Transmission Doppelspalt: 8.339961e-04
+- integrierte Transmission Einspalt: 4.129788e-04
+- Verhältnis Doppelspalt / Einspalt: 2.019
+
+Kurzlesung
+- Der Doppelspalt zeigt auf dem Schirm ein symmetrisches Fransenmuster mit zentralem Maximum.
+- Gegenüber dem Einspalt ist die Einzelkeule in mehrere Interferenzfransen aufgespalten.
+- Das ist die störungsfreie Referenz für den nächsten Schritt: lokale Mess-/Robin-Störung an einem oder beiden Spalten.

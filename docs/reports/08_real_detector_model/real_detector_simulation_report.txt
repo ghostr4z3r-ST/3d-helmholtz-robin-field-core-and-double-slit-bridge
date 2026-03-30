@@ -1,0 +1,22 @@
+Doppelspalt mit realistischem Detektor-Surrogat
+
+Modelldeutung
+- kohärente Basis: idealer Doppelspalt ohne Detektor
+- statische lokale Last: deterministische Robin-ähnliche Randänderung an einem Spalt
+- räumliche Rauigkeit: feste Inhomogenität entlang des gemessenen Spalts
+- zeitliche Fluktuation: unaufgelöste mikroskopische Störung der Randkopplung
+- Verlustkanal: zusätzliche lokale kohärente Dämpfung am Detektorspalt
+
+coherent_baseline: visibility=0.981 fringes=5 trans_ratio=1.000 asym=-0.000 corr_to_incoh=0.738
+static_det_load: visibility=0.963 fringes=7 trans_ratio=0.965 asym=0.046 corr_to_incoh=0.722
+spatial_rough_upper: visibility=0.968 fringes=6 trans_ratio=0.900 asym=-0.031 corr_to_incoh=0.722
+temporal_fluct_sigma80: visibility=0.630 fringes=8 trans_ratio=0.728 asym=-0.196 corr_to_incoh=0.783
+temporal_fluct_sigma150: visibility=0.402 fringes=8 trans_ratio=0.675 asym=-0.250 corr_to_incoh=0.829
+temporal_fluct_plus_loss: visibility=0.428 fringes=8 trans_ratio=0.668 asym=-0.253 corr_to_incoh=0.817
+incoherent_reference: visibility=nan fringes=1 trans_ratio=0.998 asym=0.000 corr_to_incoh=1.000
+
+Kurzlesung
+- Statische lokale Last erhält die Interferenz weitgehend und erzeugt vor allem Verzerrung/Asymmetrie.
+- Räumliche Rauigkeit senkt die Sichtbarkeit moderat, aber noch nicht in Richtung vollständiger Inkohärenz.
+- Zeitliche Fluktuation drückt die Sichtbarkeit deutlich, ohne die Transmission proportional zu vernichten.
+- Fluktuation plus Verlustkanal treibt das Muster am stärksten in Richtung inkohärente Spaltsumme.

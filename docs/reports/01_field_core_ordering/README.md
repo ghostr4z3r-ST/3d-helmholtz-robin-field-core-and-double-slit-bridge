@@ -1,0 +1,1 @@
+Recovered both early field-core scripts from the pre-double-slit bridge and multiple summary-level outputs for dense beta, subspace, axis-permutation, and readout robustness. Several raw full CSVs and consensus figures remain missing.

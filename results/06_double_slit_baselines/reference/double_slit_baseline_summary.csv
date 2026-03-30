@@ -1,0 +1,2 @@
+x_wall,x_screen,wavelength,slit_width,slit_separation,central_max_y,num_visible_fringes,fringe_spacing,visibility_central,transmission_double,transmission_one,transmission_ratio_double_to_one
+0.43,0.859,0.03,0.036,0.12,0.0,7,0.10368,0.9864178234672812,0.0008339961436657573,0.0004129788019811909,2.0194647755885096

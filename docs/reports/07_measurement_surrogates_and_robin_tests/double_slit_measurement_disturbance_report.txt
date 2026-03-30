@@ -1,0 +1,10 @@
+Double-slit local measurement-like disturbance (dephasing surrogate)
+
+coherent_baseline: eta=1.000000, visibility=0.980613, fringes=5, spacing=0.161000, corr_to_incoherent=0.724767, l2_to_incoherent=0.660140
+weak_measurement_upper: eta=0.882497, visibility=0.874519, fringes=5, spacing=0.160000, corr_to_incoherent=0.766244, l2_to_incoherent=0.582571
+medium_measurement_upper: eta=0.486752, visibility=0.508998, fringes=5, spacing=0.158000, corr_to_incoherent=0.907854, l2_to_incoherent=0.321324
+strong_measurement_upper: eta=0.011109, visibility=nan, fringes=1, spacing=nan, corr_to_incoherent=0.999945, l2_to_incoherent=0.007333
+strong_measurement_both: eta=0.000123, visibility=nan, fringes=1, spacing=nan, corr_to_incoherent=1.000000, l2_to_incoherent=0.000081
+fully_incoherent_reference: eta=0.000000, visibility=nan, fringes=1, spacing=nan, corr_to_incoherent=1.000000, l2_to_incoherent=0.000000
+
+Interpretation: local phase scrambling at one slit reduces the cross-term continuously; strong disturbance drives the screen pattern close to the incoherent slit-sum while leaving total transmission nearly unchanged.

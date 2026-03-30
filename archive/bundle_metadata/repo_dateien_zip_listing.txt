@@ -1,0 +1,213 @@
+Archive:  /mnt/data/Repo Dateien.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+      246  2026-03-29 23:17   Repo Dateien/desktop.ini
+        0  2026-03-29 23:20   Repo Dateien/Double-slit/
+      246  2026-03-29 23:17   Repo Dateien/Double-slit/desktop.ini
+   263963  2026-03-27 20:48   Repo Dateien/Double-slit/double_slit_baseline_field.png
+   409078  2026-03-27 20:46   Repo Dateien/Double-slit/double_slit_baseline_field_map.npz
+      973  2026-03-27 20:48   Repo Dateien/Double-slit/double_slit_baseline_report.txt
+    97590  2026-03-27 20:47   Repo Dateien/Double-slit/double_slit_baseline_screen.png
+    98935  2026-03-27 20:47   Repo Dateien/Double-slit/double_slit_baseline_screen_profile.csv
+      315  2026-03-27 20:47   Repo Dateien/Double-slit/double_slit_baseline_summary.csv
+    69312  2026-03-27 20:45   Repo Dateien/Double-slit/double_slit_measurement_disturbance_metrics.png
+     1119  2026-03-27 20:46   Repo Dateien/Double-slit/double_slit_measurement_disturbance_report.txt
+   192465  2026-03-27 20:45   Repo Dateien/Double-slit/double_slit_measurement_disturbance_screen.png
+   277124  2026-03-27 20:44   Repo Dateien/Double-slit/double_slit_measurement_disturbance_screen_profiles.csv
+     1153  2026-03-27 20:45   Repo Dateien/Double-slit/double_slit_measurement_disturbance_summary.csv
+   103726  2026-03-27 20:42   Repo Dateien/Double-slit/double_slit_robin_local_change_metrics.png
+   168454  2026-03-27 20:42   Repo Dateien/Double-slit/double_slit_robin_local_change_profiles.csv
+     2520  2026-03-27 20:44   Repo Dateien/Double-slit/double_slit_robin_local_change_report.txt
+   231872  2026-03-27 20:43   Repo Dateien/Double-slit/double_slit_robin_local_change_screen.png
+     2397  2026-03-27 20:43   Repo Dateien/Double-slit/double_slit_robin_local_change_summary.csv
+   585265  2026-03-27 20:49   Repo Dateien/Double-slit/one_slit_baseline_field.csv
+    75474  2026-03-27 20:51   Repo Dateien/Double-slit/one_slit_baseline_field.png
+      988  2026-03-27 20:51   Repo Dateien/Double-slit/one_slit_baseline_report.txt
+    60380  2026-03-27 20:50   Repo Dateien/Double-slit/one_slit_baseline_screen.png
+     4502  2026-03-27 20:49   Repo Dateien/Double-slit/one_slit_baseline_screen_profile.csv
+      450  2026-03-27 20:50   Repo Dateien/Double-slit/one_slit_baseline_summary.csv
+   193049  2026-03-27 20:40   Repo Dateien/Double-slit/real_detector_simulation_metrics.png
+     1559  2026-03-27 20:41   Repo Dateien/Double-slit/real_detector_simulation_report.txt
+   335258  2026-03-27 20:40   Repo Dateien/Double-slit/real_detector_simulation_screen.png
+   858476  2026-03-27 20:40   Repo Dateien/Double-slit/real_detector_simulation_screen_profiles.csv
+     1378  2026-03-27 20:41   Repo Dateien/Double-slit/real_detector_simulation_summary.csv
+   125396  2026-03-27 20:37   Repo Dateien/Double-slit/spatial_robin_profile_beta_profiles.csv
+   342796  2026-03-27 20:38   Repo Dateien/Double-slit/spatial_robin_profile_metrics.png
+     1716  2026-03-27 20:39   Repo Dateien/Double-slit/spatial_robin_profile_report.txt
+   358734  2026-03-27 20:38   Repo Dateien/Double-slit/spatial_robin_profile_screen.png
+  1978513  2026-03-27 20:38   Repo Dateien/Double-slit/spatial_robin_profile_screen_profiles.csv
+     1739  2026-03-27 20:39   Repo Dateien/Double-slit/spatial_robin_profile_summary.csv
+        0  2026-03-29 23:19   Repo Dateien/Freilegung des Kernordnungsprinzips/
+    20900  2026-03-27 21:48   Repo Dateien/Freilegung des Kernordnungsprinzips/axis_permutation_robustness_key_summary.csv
+   192942  2026-03-27 21:43   Repo Dateien/Freilegung des Kernordnungsprinzips/bispectral_phase_lock_all.png
+    98633  2026-03-27 21:43   Repo Dateien/Freilegung des Kernordnungsprinzips/bispectral_phase_lock_exceed_topk.png
+    65666  2026-03-27 21:44   Repo Dateien/Freilegung des Kernordnungsprinzips/bispectral_phase_lock_full.csv
+     4059  2026-03-27 21:44   Repo Dateien/Freilegung des Kernordnungsprinzips/bispectral_phase_lock_summary.csv
+     8559  2026-03-27 21:44   Repo Dateien/Freilegung des Kernordnungsprinzips/bispectral_phase_lock_test.py
+   159468  2026-03-27 21:43   Repo Dateien/Freilegung des Kernordnungsprinzips/bispectral_phase_lock_topk.png
+    64614  2026-03-27 21:31   Repo Dateien/Freilegung des Kernordnungsprinzips/carrier_shell_dominance.png
+    14497  2026-03-27 21:31   Repo Dateien/Freilegung des Kernordnungsprinzips/carrier_shell_real_cases.csv
+   149371  2026-03-27 21:31   Repo Dateien/Freilegung des Kernordnungsprinzips/carrier_shell_stability_exceed.png
+  3941072  2026-03-27 21:30   Repo Dateien/Freilegung des Kernordnungsprinzips/carrier_shell_stability_full.csv
+    13973  2026-03-27 21:30   Repo Dateien/Freilegung des Kernordnungsprinzips/carrier_shell_stability_summary.csv
+   295740  2026-03-27 21:25   Repo Dateien/Freilegung des Kernordnungsprinzips/closed_body_analogue.png
+    36697  2026-03-27 21:26   Repo Dateien/Freilegung des Kernordnungsprinzips/closed_body_analogue_full.csv
+     3386  2026-03-27 21:26   Repo Dateien/Freilegung des Kernordnungsprinzips/closed_body_analogue_summary.csv
+   191974  2026-03-27 21:34   Repo Dateien/Freilegung des Kernordnungsprinzips/corner_edge_face_incidence_fft_exceed.png
+  1087952  2026-03-27 21:35   Repo Dateien/Freilegung des Kernordnungsprinzips/corner_edge_face_incidence_full.csv
+   159510  2026-03-27 21:34   Repo Dateien/Freilegung des Kernordnungsprinzips/corner_edge_face_incidence_overview.png
+    85408  2026-03-27 21:34   Repo Dateien/Freilegung des Kernordnungsprinzips/corner_edge_face_incidence_summary.csv
+     9631  2026-03-27 21:36   Repo Dateien/Freilegung des Kernordnungsprinzips/corner_edge_face_incidence_test.py
+    81024  2026-03-27 21:26   Repo Dateien/Freilegung des Kernordnungsprinzips/cross_layer_alignment_fft.png
+   113455  2026-03-27 21:27   Repo Dateien/Freilegung des Kernordnungsprinzips/cross_layer_alignment_full.csv
+    13291  2026-03-27 21:26   Repo Dateien/Freilegung des Kernordnungsprinzips/cross_layer_alignment_summary.csv
+    11301  2026-03-27 21:49   Repo Dateien/Freilegung des Kernordnungsprinzips/dense_beta_branch_tracking_summary.csv
+      246  2026-03-29 23:17   Repo Dateien/Freilegung des Kernordnungsprinzips/desktop.ini
+     1054  2026-03-27 21:41   Repo Dateien/Freilegung des Kernordnungsprinzips/family_restricted_bispectral_beta_mean.csv
+   112354  2026-03-27 21:40   Repo Dateien/Freilegung des Kernordnungsprinzips/family_restricted_bispectral_exact_exceed.png
+    60052  2026-03-27 21:42   Repo Dateien/Freilegung des Kernordnungsprinzips/family_restricted_bispectral_full.csv
+    91990  2026-03-27 21:40   Repo Dateien/Freilegung des Kernordnungsprinzips/family_restricted_bispectral_overview.png
+     4026  2026-03-27 21:42   Repo Dateien/Freilegung des Kernordnungsprinzips/family_restricted_bispectral_summary.csv
+   153809  2026-03-27 21:41   Repo Dateien/Freilegung des Kernordnungsprinzips/family_restricted_bispectral_support.png
+    87320  2026-03-27 21:41   Repo Dateien/Freilegung des Kernordnungsprinzips/family_restricted_bispectral_support_exceed.png
+     8509  2026-03-27 21:42   Repo Dateien/Freilegung des Kernordnungsprinzips/family_restricted_bispectral_test.py
+   172590  2026-03-27 20:59   Repo Dateien/Freilegung des Kernordnungsprinzips/find_transition_zone_combo_exc.png
+   803906  2026-03-27 21:01   Repo Dateien/Freilegung des Kernordnungsprinzips/find_transition_zone_full (1).csv
+   803906  2026-03-27 20:57   Repo Dateien/Freilegung des Kernordnungsprinzips/find_transition_zone_full.csv
+     5834  2026-03-27 21:00   Repo Dateien/Freilegung des Kernordnungsprinzips/find_transition_zone_global.csv
+    61802  2026-03-27 20:59   Repo Dateien/Freilegung des Kernordnungsprinzips/find_transition_zone_global_profile.png
+     1278  2026-03-27 21:00   Repo Dateien/Freilegung des Kernordnungsprinzips/find_transition_zone_peaks_beta_exc.csv
+     2622  2026-03-27 21:01   Repo Dateien/Freilegung des Kernordnungsprinzips/find_transition_zone_report.txt
+    27239  2026-03-27 21:00   Repo Dateien/Freilegung des Kernordnungsprinzips/find_transition_zone_summary (1).csv
+    27239  2026-03-27 20:57   Repo Dateien/Freilegung des Kernordnungsprinzips/find_transition_zone_summary.csv
+   270067  2026-03-27 20:56   Repo Dateien/Freilegung des Kernordnungsprinzips/fullrange_core_template_dominance.png
+  5450998  2026-03-27 20:55   Repo Dateien/Freilegung des Kernordnungsprinzips/fullrange_core_template_full.csv
+     2007  2026-03-27 20:56   Repo Dateien/Freilegung des Kernordnungsprinzips/fullrange_core_template_report.txt
+     8137  2026-03-27 20:54   Repo Dateien/Freilegung des Kernordnungsprinzips/fullrange_core_template_scan.py
+   370440  2026-03-27 20:55   Repo Dateien/Freilegung des Kernordnungsprinzips/fullrange_core_template_scores.png
+   124313  2026-03-27 20:56   Repo Dateien/Freilegung des Kernordnungsprinzips/fullrange_core_template_summary.csv
+    15891  2026-03-27 20:55   Repo Dateien/Freilegung des Kernordnungsprinzips/fullrange_core_template_transition_focus.csv
+   110991  2026-03-27 21:11   Repo Dateien/Freilegung des Kernordnungsprinzips/inner_outer_complementarity.png
+     9983  2026-03-27 21:13   Repo Dateien/Freilegung des Kernordnungsprinzips/inner_outer_samelevel_and_complementarity.py
+  2627009  2026-03-27 21:13   Repo Dateien/Freilegung des Kernordnungsprinzips/inner_outer_samelevel_bands.csv
+     6400  2026-03-27 21:12   Repo Dateien/Freilegung des Kernordnungsprinzips/inner_outer_samelevel_beta_mean.csv
+    89123  2026-03-27 21:12   Repo Dateien/Freilegung des Kernordnungsprinzips/inner_outer_samelevel_coupling.png
+    55415  2026-03-27 21:13   Repo Dateien/Freilegung des Kernordnungsprinzips/inner_outer_samelevel_full.csv
+   288944  2026-03-27 21:12   Repo Dateien/Freilegung des Kernordnungsprinzips/inner_outer_samelevel_summary.csv
+   204246  2026-03-27 21:38   Repo Dateien/Freilegung des Kernordnungsprinzips/opposite_center_locking_direct_exceed.png
+   176297  2026-03-27 21:37   Repo Dateien/Freilegung des Kernordnungsprinzips/opposite_center_locking_direct_z.png
+  1357514  2026-03-27 21:38   Repo Dateien/Freilegung des Kernordnungsprinzips/opposite_center_locking_full.csv
+   182339  2026-03-27 21:37   Repo Dateien/Freilegung des Kernordnungsprinzips/opposite_center_locking_hierarchy.png
+   150207  2026-03-27 21:37   Repo Dateien/Freilegung des Kernordnungsprinzips/opposite_center_locking_mediated_exceed.png
+   105322  2026-03-27 21:38   Repo Dateien/Freilegung des Kernordnungsprinzips/opposite_center_locking_summary.csv
+    10253  2026-03-27 21:39   Repo Dateien/Freilegung des Kernordnungsprinzips/opposite_center_locking_test.py
+    20896  2026-03-27 21:28   Repo Dateien/Freilegung des Kernordnungsprinzips/overlay_bridge_and_shell_tests.py
+    38415  2026-03-27 21:29   Repo Dateien/Freilegung des Kernordnungsprinzips/overlay_bridge_cases.csv
+   170087  2026-03-27 21:29   Repo Dateien/Freilegung des Kernordnungsprinzips/overlay_bridge_exceed.png
+    62004  2026-03-27 21:29   Repo Dateien/Freilegung des Kernordnungsprinzips/overlay_bridge_full.csv
+     4127  2026-03-27 21:29   Repo Dateien/Freilegung des Kernordnungsprinzips/overlay_bridge_summary.csv
+    12143  2026-03-27 21:45   Repo Dateien/Freilegung des Kernordnungsprinzips/phase_vs_nullmodels.py
+    75799  2026-03-27 21:47   Repo Dateien/Freilegung des Kernordnungsprinzips/phase_vs_nullmodels_consensus_strength.png
+    72509  2026-03-27 21:46   Repo Dateien/Freilegung des Kernordnungsprinzips/phase_vs_nullmodels_family_match.png
+   694247  2026-03-27 21:46   Repo Dateien/Freilegung des Kernordnungsprinzips/phase_vs_nullmodels_full.csv
+    70082  2026-03-27 21:47   Repo Dateien/Freilegung des Kernordnungsprinzips/phase_vs_nullmodels_q_match.png
+     4764  2026-03-27 21:45   Repo Dateien/Freilegung des Kernordnungsprinzips/phase_vs_nullmodels_real_baseline.csv
+     3262  2026-03-27 21:46   Repo Dateien/Freilegung des Kernordnungsprinzips/phase_vs_nullmodels_summary.csv
+    10077  2026-03-27 21:50   Repo Dateien/Freilegung des Kernordnungsprinzips/readout_robustness.py
+    98224  2026-03-27 21:50   Repo Dateien/Freilegung des Kernordnungsprinzips/readout_robustness_family.png
+   103897  2026-03-27 21:49   Repo Dateien/Freilegung des Kernordnungsprinzips/readout_robustness_q.png
+     2143  2026-03-27 21:48   Repo Dateien/Freilegung des Kernordnungsprinzips/readout_robustness_summary.csv
+    19650  2026-03-27 21:28   Repo Dateien/Freilegung des Kernordnungsprinzips/remaining_carrier_tests.py
+   168140  2026-03-27 21:27   Repo Dateien/Freilegung des Kernordnungsprinzips/same_shell_angle_control.png
+    45638  2026-03-27 21:28   Repo Dateien/Freilegung des Kernordnungsprinzips/same_shell_angle_control_full.csv
+     4221  2026-03-27 21:27   Repo Dateien/Freilegung des Kernordnungsprinzips/same_shell_angle_control_summary.csv
+   258368  2026-03-27 21:20   Repo Dateien/Freilegung des Kernordnungsprinzips/stepA_minimal_kernel_3d (1).png
+   258368  2026-03-27 21:23   Repo Dateien/Freilegung des Kernordnungsprinzips/stepA_minimal_kernel_3d.png
+     3325  2026-03-27 21:20   Repo Dateien/Freilegung des Kernordnungsprinzips/stepA_minimal_kernel_cases.csv
+      319  2026-03-27 21:19   Repo Dateien/Freilegung des Kernordnungsprinzips/stepA_minimal_kernel_summary.csv
+      835  2026-03-27 21:18   Repo Dateien/Freilegung des Kernordnungsprinzips/stepB_carrier_graph_beta_weights (1).csv
+      835  2026-03-27 21:22   Repo Dateien/Freilegung des Kernordnungsprinzips/stepB_carrier_graph_beta_weights.csv
+      720  2026-03-27 21:23   Repo Dateien/Freilegung des Kernordnungsprinzips/stepB_carrier_graph_edge_stats (1).csv
+      720  2026-03-27 21:19   Repo Dateien/Freilegung des Kernordnungsprinzips/stepB_carrier_graph_edge_stats.csv
+    52516  2026-03-27 21:18   Repo Dateien/Freilegung des Kernordnungsprinzips/stepB_carrier_graph_heatmap (1).png
+    52516  2026-03-27 21:22   Repo Dateien/Freilegung des Kernordnungsprinzips/stepB_carrier_graph_heatmap.png
+     3113  2026-03-27 21:17   Repo Dateien/Freilegung des Kernordnungsprinzips/stepC_composition_bridge_models (1).csv
+     3113  2026-03-27 21:21   Repo Dateien/Freilegung des Kernordnungsprinzips/stepC_composition_bridge_models.csv
+   105213  2026-03-27 21:17   Repo Dateien/Freilegung des Kernordnungsprinzips/stepC_composition_closure (1).png
+   105213  2026-03-27 21:21   Repo Dateien/Freilegung des Kernordnungsprinzips/stepC_composition_closure.png
+     3102  2026-03-27 21:22   Repo Dateien/Freilegung des Kernordnungsprinzips/stepC_composition_pair_models (1).csv
+     3102  2026-03-27 21:17   Repo Dateien/Freilegung des Kernordnungsprinzips/stepC_composition_pair_models.csv
+      402  2026-03-27 21:18   Repo Dateien/Freilegung des Kernordnungsprinzips/stepC_composition_summary (1).csv
+      402  2026-03-27 21:22   Repo Dateien/Freilegung des Kernordnungsprinzips/stepC_composition_summary.csv
+   204778  2026-03-27 21:16   Repo Dateien/Freilegung des Kernordnungsprinzips/stepD_bridge_geometry_exceed.png
+   125387  2026-03-27 21:16   Repo Dateien/Freilegung des Kernordnungsprinzips/stepD_bridge_geometry_full.csv
+     5758  2026-03-27 21:16   Repo Dateien/Freilegung des Kernordnungsprinzips/stepD_bridge_geometry_summary.csv
+    10110  2026-03-27 21:15   Repo Dateien/Freilegung des Kernordnungsprinzips/stepD_stepE_bridge_geometry.py
+    30081  2026-03-27 21:15   Repo Dateien/Freilegung des Kernordnungsprinzips/stepE_kernel_plus_bridge_cases.csv
+      801  2026-03-27 21:15   Repo Dateien/Freilegung des Kernordnungsprinzips/stepE_kernel_plus_bridge_summary.csv
+    13849  2026-03-27 21:49   Repo Dateien/Freilegung des Kernordnungsprinzips/subspace_rotation_robustness_key_summary.csv
+     6573  2026-03-27 21:09   Repo Dateien/Freilegung des Kernordnungsprinzips/target075_band_beta_mean.csv
+      263  2026-03-27 21:09   Repo Dateien/Freilegung des Kernordnungsprinzips/target075_band_bw_stats.csv
+   560520  2026-03-27 21:10   Repo Dateien/Freilegung des Kernordnungsprinzips/target075_band_full.csv
+     9661  2026-03-27 21:10   Repo Dateien/Freilegung des Kernordnungsprinzips/target075_band_recut.py
+   253030  2026-03-27 21:10   Repo Dateien/Freilegung des Kernordnungsprinzips/target075_band_summary.csv
+    47806  2026-03-27 21:08   Repo Dateien/Freilegung des Kernordnungsprinzips/target075_carrier_vs_space.png
+    47213  2026-03-27 21:08   Repo Dateien/Freilegung des Kernordnungsprinzips/target075_complementarity.png
+    56538  2026-03-27 21:07   Repo Dateien/Freilegung des Kernordnungsprinzips/target075_exceedance.png
+    43685  2026-03-27 21:09   Repo Dateien/Freilegung des Kernordnungsprinzips/target075_samelevel_coupling.png
+   158918  2026-03-27 20:57   Repo Dateien/Freilegung des Kernordnungsprinzips/test1_bound_free_transition_plot.png
+     2256  2026-03-27 20:58   Repo Dateien/Freilegung des Kernordnungsprinzips/test1_bound_free_transition_report.txt
+        0  2026-03-29 23:18   Repo Dateien/Verschärfung der Detektorformel/
+    20900  2026-03-27 19:33   Repo Dateien/Verschärfung der Detektorformel/axis_permutation_robustness_key_summary.csv
+    13291  2026-03-27 19:01   Repo Dateien/Verschärfung der Detektorformel/cross_layer_alignment_summary.csv
+    11301  2026-03-27 19:34   Repo Dateien/Verschärfung der Detektorformel/dense_beta_branch_tracking_summary.csv
+      246  2026-03-29 23:17   Repo Dateien/Verschärfung der Detektorformel/desktop.ini
+     1259  2026-03-27 20:19   Repo Dateien/Verschärfung der Detektorformel/detector_additional_tests_report.txt
+     5716  2026-03-27 19:41   Repo Dateien/Verschärfung der Detektorformel/detector_matrix_preregistered_full.csv
+   151707  2026-03-27 18:57   Repo Dateien/Verschärfung der Detektorformel/detector_matrix_preregistered_heatmaps (1).png
+   151707  2026-03-27 19:40   Repo Dateien/Verschärfung der Detektorformel/detector_matrix_preregistered_heatmaps.png
+     4631  2026-03-27 19:40   Repo Dateien/Verschärfung der Detektorformel/detector_matrix_preregistered_moderate_cases.csv
+   159058  2026-03-27 19:39   Repo Dateien/Verschärfung der Detektorformel/detector_matrix_preregistered_profiles.png
+     1764  2026-03-27 19:41   Repo Dateien/Verschärfung der Detektorformel/detector_matrix_preregistered_report.txt
+     3333  2026-03-27 19:40   Repo Dateien/Verschärfung der Detektorformel/detector_matrix_preregistered_strong_cases.csv
+     5800  2026-03-27 18:57   Repo Dateien/Verschärfung der Detektorformel/detector_matrix_preregistered_summary (1).csv
+     5800  2026-03-27 19:41   Repo Dateien/Verschärfung der Detektorformel/detector_matrix_preregistered_summary.csv
+      438  2026-03-27 20:26   Repo Dateien/Verschärfung der Detektorformel/detector_mechanism_compare (1).csv
+      438  2026-03-27 20:20   Repo Dateien/Verschärfung der Detektorformel/detector_mechanism_compare.csv
+   224771  2026-03-27 20:19   Repo Dateien/Verschärfung der Detektorformel/detector_mechanism_compare.png
+     5842  2026-03-27 20:30   Repo Dateien/Verschärfung der Detektorformel/detector_parameter_map.csv
+    88572  2026-03-27 20:30   Repo Dateien/Verschärfung der Detektorformel/detector_parameter_map_heatmaps.png
+      973  2026-03-27 18:59   Repo Dateien/Verschärfung der Detektorformel/double_slit_baseline_report.txt
+      315  2026-03-27 18:58   Repo Dateien/Verschärfung der Detektorformel/double_slit_baseline_summary.csv
+    27239  2026-03-27 19:00   Repo Dateien/Verschärfung der Detektorformel/find_transition_zone_summary.csv
+   124313  2026-03-27 19:00   Repo Dateien/Verschärfung der Detektorformel/fullrange_core_template_summary.csv
+     3163  2026-03-27 18:47   Repo Dateien/Verschärfung der Detektorformel/minimal_detector_formula_derivation.txt
+      814  2026-03-27 19:36   Repo Dateien/Verschärfung der Detektorformel/minimal_detector_formula_external_path_marking.csv
+     1093  2026-03-27 19:35   Repo Dateien/Verschärfung der Detektorformel/minimal_detector_formula_external_sigma_only.csv
+   146735  2026-03-27 19:35   Repo Dateien/Verschärfung der Detektorformel/minimal_detector_formula_external_validation.png
+     1671  2026-03-27 19:36   Repo Dateien/Verschärfung der Detektorformel/minimal_detector_formula_external_validation_report.txt
+      466  2026-03-27 18:48   Repo Dateien/Verschärfung der Detektorformel/minimal_detector_formula_external_validation_summary (1).csv
+      466  2026-03-27 18:48   Repo Dateien/Verschärfung der Detektorformel/minimal_detector_formula_external_validation_summary (2).csv
+      466  2026-03-27 19:36   Repo Dateien/Verschärfung der Detektorformel/minimal_detector_formula_external_validation_summary.csv
+     6859  2026-03-27 19:37   Repo Dateien/Verschärfung der Detektorformel/minimal_detector_formula_fit_cases.csv
+    60133  2026-03-27 19:37   Repo Dateien/Verschärfung der Detektorformel/minimal_detector_formula_fit_heatmaps.png
+      684  2026-03-27 19:38   Repo Dateien/Verschärfung der Detektorformel/minimal_detector_formula_fit_report.txt
+    57719  2026-03-27 19:37   Repo Dateien/Verschärfung der Detektorformel/minimal_detector_formula_fit_scatter.png
+      274  2026-03-27 18:50   Repo Dateien/Verschärfung der Detektorformel/minimal_detector_formula_fit_summary (1).csv
+      274  2026-03-27 19:38   Repo Dateien/Verschärfung der Detektorformel/minimal_detector_formula_fit_summary.csv
+     5246  2026-03-27 19:35   Repo Dateien/Verschärfung der Detektorformel/minimal_detector_formula_holdout_test.csv
+      988  2026-03-27 18:59   Repo Dateien/Verschärfung der Detektorformel/one_slit_baseline_report.txt
+      450  2026-03-27 18:59   Repo Dateien/Verschärfung der Detektorformel/one_slit_baseline_summary.csv
+      636  2026-03-27 20:30   Repo Dateien/Verschärfung der Detektorformel/path_marking_test (1).csv
+      636  2026-03-27 18:57   Repo Dateien/Verschärfung der Detektorformel/path_marking_test.csv
+   156338  2026-03-27 20:26   Repo Dateien/Verschärfung der Detektorformel/path_marking_test.png
+     2143  2026-03-27 19:33   Repo Dateien/Verschärfung der Detektorformel/readout_robustness_summary.csv
+     1739  2026-03-27 18:58   Repo Dateien/Verschärfung der Detektorformel/spatial_robin_profile_summary.csv
+      319  2026-03-27 19:31   Repo Dateien/Verschärfung der Detektorformel/stepA_minimal_kernel_summary.csv
+      835  2026-03-27 19:30   Repo Dateien/Verschärfung der Detektorformel/stepB_carrier_graph_beta_weights.csv
+      720  2026-03-27 19:30   Repo Dateien/Verschärfung der Detektorformel/stepB_carrier_graph_edge_stats.csv
+      801  2026-03-27 19:31   Repo Dateien/Verschärfung der Detektorformel/stepE_kernel_plus_bridge_summary.csv
+    13849  2026-03-27 19:33   Repo Dateien/Verschärfung der Detektorformel/subspace_rotation_robustness_key_summary.csv
+   253030  2026-03-27 19:00   Repo Dateien/Verschärfung der Detektorformel/target075_band_summary.csv
+---------                     -------
+ 33549651                     208 files

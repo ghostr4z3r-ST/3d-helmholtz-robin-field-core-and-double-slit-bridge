@@ -1,0 +1,26 @@
+Einspalt-Baseline im 2D-Helmholtz-Surrogat
+
+Aufbau
+- Rechteckdomäne mit Quelle links
+- interne Wand mit einer Apertur bei x=0.430
+- Schirmauslese bei x=0.859
+- zusätzlicher Kontrollfall: vollständig geblockte Wand
+
+Wesentliche Kennzahlen
+- Zentralmaximum auf dem Schirm bei y=0.000000
+- FWHM des Schirmprofils: 0.617143
+- Symmetrie-Score des Schirmprofils: 1.000000
+- Transmission hinter der Wand, Einspalt: 1.721773e-05
+- Transmission hinter der Wand, geblockt: 2.623538e-07
+- Verhältnis Einspalt / geblockt: 6.563e+01
+
+Carrier-Proxy im normierten Feld
+- Anteil |u|>=0.75 global: 0.015915
+- Anteil |u|>=0.75 hinter der Wand: 0.000000
+- Anteil 0.77<=|u|<=0.85 global: 0.006901
+- Anteil 0.77<=|u|<=0.85 hinter der Wand: 0.000000
+
+Kurzlesung
+- Der Einspalt erzeugt eine einzelne, zentrierte Beugungskeule auf dem Schirm.
+- Gegenüber der geblockten Wand steigt die Transmission hinter der Wand stark an.
+- Das ist die Referenz für den nächsten Schritt: Doppelspalt ohne Messstörung.

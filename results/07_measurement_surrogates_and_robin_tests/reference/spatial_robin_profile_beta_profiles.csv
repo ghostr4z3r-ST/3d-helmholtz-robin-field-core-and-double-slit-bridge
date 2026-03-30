@@ -1,0 +1,1408 @@
+case,label,y_local,beta_profile
+center_profile_det,räumliches Robin-Profil: mittig,-0.018,0.034191658665154064
+center_profile_det,räumliches Robin-Profil: mittig,-0.01782,0.040222667112346254
+center_profile_det,räumliches Robin-Profil: mittig,-0.01764,0.047240284878562064
+center_profile_det,räumliches Robin-Profil: mittig,-0.01746,0.055391751636054753
+center_profile_det,räumliches Robin-Profil: mittig,-0.01728,0.06484382689018602
+center_profile_det,räumliches Robin-Profil: mittig,-0.017099999999999997,0.07578497719660399
+center_profile_det,räumliches Robin-Profil: mittig,-0.016919999999999998,0.0884277467160886
+center_profile_det,räumliches Robin-Profil: mittig,-0.016739999999999998,0.10301131725933262
+center_profile_det,räumliches Robin-Profil: mittig,-0.01656,0.11980426267721386
+center_profile_det,räumliches Robin-Profil: mittig,-0.01638,0.13910750086841173
+center_profile_det,räumliches Robin-Profil: mittig,-0.0162,0.16125744478251328
+center_profile_det,räumliches Robin-Profil: mittig,-0.01602,0.1866293515717178
+center_profile_det,räumliches Robin-Profil: mittig,-0.01584,0.21564086646881162
+center_profile_det,räumliches Robin-Profil: mittig,-0.01566,0.24875575502727118
+center_profile_det,räumliches Robin-Profil: mittig,-0.015479999999999999,0.28648781403903006
+center_profile_det,räumliches Robin-Profil: mittig,-0.0153,0.32940494773918755
+center_profile_det,räumliches Robin-Profil: mittig,-0.015119999999999998,0.37813339181295474
+center_profile_det,räumliches Robin-Profil: mittig,-0.014939999999999998,0.4333620632430453
+center_profile_det,räumliches Robin-Profil: mittig,-0.014759999999999999,0.49584700918775515
+center_profile_det,räumliches Robin-Profil: mittig,-0.01458,0.5664159228814172
+center_profile_det,räumliches Robin-Profil: mittig,-0.0144,0.645972689029519
+center_profile_det,räumliches Robin-Profil: mittig,-0.01422,0.7355019153700205
+center_profile_det,räumliches Robin-Profil: mittig,-0.014039999999999999,0.8360734010406033
+center_profile_det,räumliches Robin-Profil: mittig,-0.013859999999999999,0.9488464861902631
+center_profile_det,räumliches Robin-Profil: mittig,-0.01368,1.0750742209760666
+center_profile_det,räumliches Robin-Profil: mittig,-0.013499999999999998,1.2161072857770732
+center_profile_det,räumliches Robin-Profil: mittig,-0.013319999999999999,1.3733975882347433
+center_profile_det,räumliches Robin-Profil: mittig,-0.013139999999999999,1.5485014567013813
+center_profile_det,räumliches Robin-Profil: mittig,-0.01296,1.7430823439654142
+center_profile_det,räumliches Robin-Profil: mittig,-0.01278,1.9589129498556703
+center_profile_det,räumliches Robin-Profil: mittig,-0.0126,2.1978766666458993
+center_profile_det,räumliches Robin-Profil: mittig,-0.012419999999999999,2.4619682472340707
+center_profile_det,räumliches Robin-Profil: mittig,-0.01224,2.753293593012448
+center_profile_det,räumliches Robin-Profil: mittig,-0.01206,3.0740685563325036
+center_profile_det,räumliches Robin-Profil: mittig,-0.011879999999999998,3.426616651662686
+center_profile_det,räumliches Robin-Profil: mittig,-0.011699999999999999,3.813365570095988
+center_profile_det,räumliches Robin-Profil: mittig,-0.011519999999999999,4.2368423939413065
+center_profile_det,räumliches Robin-Profil: mittig,-0.01134,4.699667411873747
+center_profile_det,räumliches Robin-Profil: mittig,-0.01116,5.20454644065909
+center_profile_det,räumliches Robin-Profil: mittig,-0.01098,5.754261566924252
+center_profile_det,räumliches Robin-Profil: mittig,-0.010799999999999999,6.351660231918694
+center_profile_det,räumliches Robin-Profil: mittig,-0.01062,6.999642593776097
+center_profile_det,räumliches Robin-Profil: mittig,-0.01044,7.701147115489849
+center_profile_det,räumliches Robin-Profil: mittig,-0.010259999999999998,8.459134342675153
+center_profile_det,räumliches Robin-Profil: mittig,-0.010079999999999999,9.276568853186696
+center_profile_det,räumliches Robin-Profil: mittig,-0.009899999999999999,10.156399380736769
+center_profile_det,räumliches Robin-Profil: mittig,-0.00972,11.101537136713823
+center_profile_det,räumliches Robin-Profil: mittig,-0.00954,12.114832378295352
+center_profile_det,räumliches Robin-Profil: mittig,-0.00936,13.199049296492277
+center_profile_det,räumliches Robin-Profil: mittig,-0.009179999999999999,14.356839324720806
+center_profile_det,räumliches Robin-Profil: mittig,-0.009,15.590712996591545
+center_profile_det,räumliches Robin-Profil: mittig,-0.00882,16.90301051050849
+center_profile_det,räumliches Robin-Profil: mittig,-0.00864,18.295871188013468
+center_profile_det,räumliches Robin-Profil: mittig,-0.008459999999999999,19.771202042183322
+center_profile_det,räumliches Robin-Profil: mittig,-0.00828,21.33064570134329
+center_profile_det,räumliches Robin-Profil: mittig,-0.0081,22.975547961421665
+center_profile_det,räumliches Robin-Profil: mittig,-0.00792,24.706925266935702
+center_profile_det,räumliches Robin-Profil: mittig,-0.00774,26.525432445346954
+center_profile_det,räumliches Robin-Profil: mittig,-0.007559999999999999,28.431331041826176
+center_profile_det,räumliches Robin-Profil: mittig,-0.007379999999999999,30.424458620792823
+center_profile_det,räumliches Robin-Profil: mittig,-0.0072,32.5041994164231
+center_profile_det,räumliches Robin-Profil: mittig,-0.00702,34.66945672615013
+center_profile_det,räumliches Robin-Profil: mittig,-0.006839999999999999,36.91862744854406
+center_profile_det,räumliches Robin-Profil: mittig,-0.006659999999999999,39.2495791694263
+center_profile_det,räumliches Robin-Profil: mittig,-0.00648,41.659630197267425
+center_profile_det,räumliches Robin-Profil: mittig,-0.0063,44.14553294052891
+center_profile_det,räumliches Robin-Profil: mittig,-0.0061200000000000004,46.70346100539485
+center_profile_det,räumliches Robin-Profil: mittig,-0.005939999999999999,49.329000372143526
+center_profile_det,räumliches Robin-Profil: mittig,-0.0057599999999999995,52.0171449821645
+center_profile_det,räumliches Robin-Profil: mittig,-0.00558,54.762297035363375
+center_profile_det,räumliches Robin-Profil: mittig,-0.0054,57.558272259547735
+center_profile_det,räumliches Robin-Profil: mittig,-0.005219999999999999,60.39831036959419
+center_profile_det,räumliches Robin-Profil: mittig,-0.005039999999999999,63.27509088510256
+center_profile_det,räumliches Robin-Profil: mittig,-0.00486,66.18075442130751
+center_profile_det,räumliches Robin-Profil: mittig,-0.00468,69.1069295097964
+center_profile_det,räumliches Robin-Profil: mittig,-0.0045000000000000005,72.04476494373645
+center_profile_det,räumliches Robin-Profil: mittig,-0.004319999999999999,74.98496757759901
+center_profile_det,räumliches Robin-Profil: mittig,-0.00414,77.91784544461329
+center_profile_det,räumliches Robin-Profil: mittig,-0.00396,80.83335598730586
+center_profile_det,räumliches Robin-Profil: mittig,-0.0037800000000000004,83.72115912843998
+center_profile_det,räumliches Robin-Profil: mittig,-0.003599999999999999,86.57067484248417
+center_profile_det,räumliches Robin-Profil: mittig,-0.0034199999999999994,89.37114482244058
+center_profile_det,räumliches Robin-Profil: mittig,-0.00324,92.11169777450455
+center_profile_det,räumliches Robin-Profil: mittig,-0.0030600000000000002,94.78141781464078
+center_profile_det,räumliches Robin-Profil: mittig,-0.0028800000000000006,97.36941538776155
+center_profile_det,räumliches Robin-Profil: mittig,-0.0026999999999999993,99.86490008273627
+center_profile_det,räumliches Robin-Profil: mittig,-0.0025199999999999997,102.2572546758431
+center_profile_det,räumliches Robin-Profil: mittig,-0.0023399999999999983,104.53610970230318
+center_profile_det,räumliches Robin-Profil: mittig,-0.0021599999999999987,106.69141783091621
+center_profile_det,räumliches Robin-Profil: mittig,-0.001979999999999999,108.71352730113406
+center_profile_det,räumliches Robin-Profil: mittig,-0.0017999999999999995,110.59325367561638
+center_profile_det,räumliches Robin-Profil: mittig,-0.00162,112.3219491647228
+center_profile_det,räumliches Robin-Profil: mittig,-0.0014400000000000003,113.89156879266443
+center_profile_det,räumliches Robin-Profil: mittig,-0.0012600000000000007,115.29473269816347
+center_profile_det,räumliches Robin-Profil: mittig,-0.001080000000000001,116.52478389528923
+center_profile_det,räumliches Robin-Profil: mittig,-0.0009000000000000015,117.57584086232694
+center_profile_det,räumliches Robin-Profil: mittig,-0.0007200000000000019,118.44284437760668
+center_profile_det,räumliches Robin-Profil: mittig,-0.0005399999999999988,119.12159808053926
+center_profile_det,räumliches Robin-Profil: mittig,-0.0003599999999999992,119.60880230289044
+center_profile_det,räumliches Robin-Profil: mittig,-0.0001799999999999996,119.90208078866928
+center_profile_det,räumliches Robin-Profil: mittig,0.0,119.99999999987999
+center_profile_det,räumliches Robin-Profil: mittig,0.0001799999999999996,119.90208078866928
+center_profile_det,räumliches Robin-Profil: mittig,0.0003599999999999992,119.60880230289044
+center_profile_det,räumliches Robin-Profil: mittig,0.0005399999999999988,119.12159808053926
+center_profile_det,räumliches Robin-Profil: mittig,0.0007199999999999984,118.44284437760669
+center_profile_det,räumliches Robin-Profil: mittig,0.000899999999999998,117.57584086232694
+center_profile_det,räumliches Robin-Profil: mittig,0.001080000000000001,116.52478389528923
+center_profile_det,räumliches Robin-Profil: mittig,0.0012600000000000007,115.29473269816347
+center_profile_det,räumliches Robin-Profil: mittig,0.0014400000000000003,113.89156879266443
+center_profile_det,räumliches Robin-Profil: mittig,0.00162,112.3219491647228
+center_profile_det,räumliches Robin-Profil: mittig,0.0017999999999999995,110.59325367561638
+center_profile_det,räumliches Robin-Profil: mittig,0.001979999999999999,108.71352730113406
+center_profile_det,räumliches Robin-Profil: mittig,0.0021599999999999987,106.69141783091621
+center_profile_det,räumliches Robin-Profil: mittig,0.0023399999999999983,104.53610970230318
+center_profile_det,räumliches Robin-Profil: mittig,0.002519999999999998,102.25725467584311
+center_profile_det,räumliches Robin-Profil: mittig,0.002700000000000001,99.86490008273624
+center_profile_det,räumliches Robin-Profil: mittig,0.0028800000000000006,97.36941538776155
+center_profile_det,räumliches Robin-Profil: mittig,0.0030600000000000002,94.78141781464078
+center_profile_det,räumliches Robin-Profil: mittig,0.00324,92.11169777450455
+center_profile_det,räumliches Robin-Profil: mittig,0.0034199999999999994,89.37114482244058
+center_profile_det,räumliches Robin-Profil: mittig,0.003599999999999999,86.57067484248417
+center_profile_det,räumliches Robin-Profil: mittig,0.0037799999999999986,83.72115912844001
+center_profile_det,räumliches Robin-Profil: mittig,0.003959999999999998,80.83335598730591
+center_profile_det,räumliches Robin-Profil: mittig,0.004139999999999998,77.91784544461332
+center_profile_det,räumliches Robin-Profil: mittig,0.004320000000000001,74.98496757759898
+center_profile_det,räumliches Robin-Profil: mittig,0.0045000000000000005,72.04476494373645
+center_profile_det,räumliches Robin-Profil: mittig,0.00468,69.1069295097964
+center_profile_det,räumliches Robin-Profil: mittig,0.00486,66.18075442130751
+center_profile_det,räumliches Robin-Profil: mittig,0.005039999999999999,63.27509088510256
+center_profile_det,räumliches Robin-Profil: mittig,0.005219999999999999,60.39831036959419
+center_profile_det,räumliches Robin-Profil: mittig,0.0053999999999999986,57.55827225954777
+center_profile_det,räumliches Robin-Profil: mittig,0.005579999999999998,54.762297035363396
+center_profile_det,räumliches Robin-Profil: mittig,0.005759999999999998,52.017144982164524
+center_profile_det,räumliches Robin-Profil: mittig,0.005940000000000001,49.3290003721435
+center_profile_det,räumliches Robin-Profil: mittig,0.0061200000000000004,46.70346100539485
+center_profile_det,räumliches Robin-Profil: mittig,0.0063,44.14553294052891
+center_profile_det,räumliches Robin-Profil: mittig,0.00648,41.659630197267425
+center_profile_det,räumliches Robin-Profil: mittig,0.006659999999999999,39.2495791694263
+center_profile_det,räumliches Robin-Profil: mittig,0.006839999999999999,36.91862744854406
+center_profile_det,räumliches Robin-Profil: mittig,0.0070199999999999985,34.66945672615013
+center_profile_det,räumliches Robin-Profil: mittig,0.007199999999999998,32.50419941642313
+center_profile_det,räumliches Robin-Profil: mittig,0.007379999999999998,30.424458620792848
+center_profile_det,räumliches Robin-Profil: mittig,0.007560000000000001,28.431331041826148
+center_profile_det,räumliches Robin-Profil: mittig,0.00774,26.525432445346954
+center_profile_det,räumliches Robin-Profil: mittig,0.00792,24.706925266935702
+center_profile_det,räumliches Robin-Profil: mittig,0.0081,22.975547961421665
+center_profile_det,räumliches Robin-Profil: mittig,0.00828,21.33064570134329
+center_profile_det,räumliches Robin-Profil: mittig,0.008459999999999999,19.771202042183322
+center_profile_det,räumliches Robin-Profil: mittig,0.008639999999999998,18.29587118801349
+center_profile_det,räumliches Robin-Profil: mittig,0.008819999999999998,16.9030105105085
+center_profile_det,räumliches Robin-Profil: mittig,0.008999999999999998,15.590712996591552
+center_profile_det,räumliches Robin-Profil: mittig,0.00918,14.356839324720799
+center_profile_det,räumliches Robin-Profil: mittig,0.00936,13.199049296492277
+center_profile_det,räumliches Robin-Profil: mittig,0.00954,12.114832378295352
+center_profile_det,räumliches Robin-Profil: mittig,0.00972,11.101537136713823
+center_profile_det,räumliches Robin-Profil: mittig,0.009899999999999999,10.156399380736769
+center_profile_det,räumliches Robin-Profil: mittig,0.010079999999999999,9.276568853186696
+center_profile_det,räumliches Robin-Profil: mittig,0.010259999999999998,8.459134342675153
+center_profile_det,räumliches Robin-Profil: mittig,0.010439999999999998,7.70114711548986
+center_profile_det,räumliches Robin-Profil: mittig,0.010619999999999997,6.9996425937761
+center_profile_det,räumliches Robin-Profil: mittig,0.0108,6.351660231918691
+center_profile_det,räumliches Robin-Profil: mittig,0.01098,5.754261566924252
+center_profile_det,räumliches Robin-Profil: mittig,0.01116,5.20454644065909
+center_profile_det,räumliches Robin-Profil: mittig,0.01134,4.699667411873747
+center_profile_det,räumliches Robin-Profil: mittig,0.011519999999999999,4.2368423939413065
+center_profile_det,räumliches Robin-Profil: mittig,0.011699999999999999,3.813365570095988
+center_profile_det,räumliches Robin-Profil: mittig,0.011879999999999998,3.426616651662686
+center_profile_det,räumliches Robin-Profil: mittig,0.012059999999999998,3.074068556332509
+center_profile_det,räumliches Robin-Profil: mittig,0.012239999999999997,2.75329359301245
+center_profile_det,räumliches Robin-Profil: mittig,0.012419999999999997,2.461968247234073
+center_profile_det,räumliches Robin-Profil: mittig,0.0126,2.1978766666458993
+center_profile_det,räumliches Robin-Profil: mittig,0.01278,1.9589129498556703
+center_profile_det,räumliches Robin-Profil: mittig,0.01296,1.7430823439654142
+center_profile_det,räumliches Robin-Profil: mittig,0.013139999999999999,1.5485014567013813
+center_profile_det,räumliches Robin-Profil: mittig,0.013320000000000002,1.3733975882347387
+center_profile_det,räumliches Robin-Profil: mittig,0.013500000000000002,1.2161072857770707
+center_profile_det,räumliches Robin-Profil: mittig,0.013680000000000001,1.0750742209760666
+center_profile_det,räumliches Robin-Profil: mittig,0.01386,0.9488464861902615
+center_profile_det,räumliches Robin-Profil: mittig,0.01404,0.8360734010406033
+center_profile_det,räumliches Robin-Profil: mittig,0.01422,0.7355019153700205
+center_profile_det,räumliches Robin-Profil: mittig,0.0144,0.645972689029519
+center_profile_det,räumliches Robin-Profil: mittig,0.01458,0.5664159228814172
+center_profile_det,räumliches Robin-Profil: mittig,0.014759999999999999,0.49584700918775515
+center_profile_det,räumliches Robin-Profil: mittig,0.014939999999999998,0.4333620632430453
+center_profile_det,räumliches Robin-Profil: mittig,0.015119999999999998,0.37813339181295474
+center_profile_det,räumliches Robin-Profil: mittig,0.015299999999999998,0.32940494773918755
+center_profile_det,räumliches Robin-Profil: mittig,0.015479999999999997,0.2864878140390305
+center_profile_det,räumliches Robin-Profil: mittig,0.015659999999999997,0.24875575502727226
+center_profile_det,räumliches Robin-Profil: mittig,0.015839999999999996,0.2156408664688122
+center_profile_det,räumliches Robin-Profil: mittig,0.016019999999999996,0.1866293515717183
+center_profile_det,räumliches Robin-Profil: mittig,0.016199999999999996,0.1612574447825137
+center_profile_det,räumliches Robin-Profil: mittig,0.016379999999999995,0.13910750086841212
+center_profile_det,räumliches Robin-Profil: mittig,0.016559999999999995,0.11980426267721417
+center_profile_det,räumliches Robin-Profil: mittig,0.01674,0.10301131725933217
+center_profile_det,räumliches Robin-Profil: mittig,0.01692,0.08842774671608838
+center_profile_det,räumliches Robin-Profil: mittig,0.0171,0.07578497719660379
+center_profile_det,räumliches Robin-Profil: mittig,0.01728,0.06484382689018602
+center_profile_det,räumliches Robin-Profil: mittig,0.01746,0.055391751636054753
+center_profile_det,räumliches Robin-Profil: mittig,0.01764,0.047240284878562064
+center_profile_det,räumliches Robin-Profil: mittig,0.01782,0.040222667112346254
+center_profile_det,räumliches Robin-Profil: mittig,0.018,0.034191658665154064
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.018,33.847554203223986
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01782,38.80641208046175
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01764,44.14553294052885
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01746,49.82841944177105
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01728,55.80518257603087
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.017099999999999997,62.01246993348718
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.016919999999999998,68.37393896764237
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.016739999999999998,74.80131707508133
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01656,81.19606153932628
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01638,87.45159959025145
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0162,93.45609396847509
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01602,99.09564479391294
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01584,104.25780675143683
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01566,108.83527414637712
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.015479999999999999,112.72956753750435
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0153,115.85454626362467
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.015119999999999998,118.13957244053086
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.014939999999999998,119.53216433629456
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.014759999999999999,119.99999999987999
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01458,119.53216433629456
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0144,118.13957244053088
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01422,115.8545462636247
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.014039999999999999,112.72956753750438
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.013859999999999999,108.83527414637722
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01368,104.25780675143695
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.013499999999999998,99.095644793913
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.013319999999999999,93.45609396847516
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.013139999999999999,87.45159959025149
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01296,81.19606153932628
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01278,74.80131707508139
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0126,68.37393896764246
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.012419999999999999,62.01246993348718
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01224,55.80518257603101
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01206,49.82841944177117
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.011879999999999998,44.14553294052891
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.011699999999999999,38.8064120804618
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.011519999999999999,33.847554203224036
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01134,29.292616649437193
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01116,25.153366458106593
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01098,21.430936153470892
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.010799999999999999,18.117290214691646
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01062,15.196809321847338
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.01044,12.647906947411105
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.010259999999999998,10.444604118736377
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.010079999999999999,8.558001923722406
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.009899999999999999,6.957606300023585
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00972,5.612474686069477
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00954,4.4921682550756445
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00936,3.567505966335488
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.009179999999999999,2.811127062479696
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.009,2.1978766666459073
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00882,1.7050347517418474
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00864,1.3124121012712857
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.008459999999999999,1.0023382221687192
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00828,0.7595658512975301
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0081,0.5711151035630653
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00792,0.42607782686868045
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00774,0.3153997152678099
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.007559999999999999,0.23165449634709384
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.007379999999999999,0.1688213021487304
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0072,0.1220733412336423
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00702,0.08758333777155185
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.006839999999999999,0.06234896185851825
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.006659999999999999,0.04403966793563133
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00648,0.030864974256048987
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0063,0.021463219983219515
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0061200000000000004,0.014809176490386764
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.005939999999999999,0.010138507234195442
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0057599999999999995,0.006886906648729387
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00558,0.004641746850377531
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0054,0.003104172026715401
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.005219999999999999,0.0020597626789323536
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.005039999999999999,0.001356112325176201
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00486,0.0008858928891992266
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00468,0.0005742140870549108
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0045000000000000005,0.00036929509901042416
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.004319999999999999,0.00023565698650763203
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00414,0.0001492087080101029
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00396,9.373787289961454e-05
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0037800000000000004,5.843096960604339e-05
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.003599999999999999,3.613916935292058e-05
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0034199999999999994,2.2177894527029155e-05
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00324,1.3504220967599508e-05
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0030600000000000002,8.158791447576688e-06
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0028800000000000006,4.890904726391476e-06
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0026999999999999993,2.9091066916673777e-06
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0025199999999999997,1.7168690580606916e-06
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0023399999999999983,1.00536042506936e-06
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0021599999999999987,5.841353910629759e-07
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.001979999999999999,3.3675379571659903e-07
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0017999999999999995,1.926278918163011e-07
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.00162,1.093289413251533e-07
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0014400000000000003,6.156958118259032e-08
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0012600000000000007,3.4405920215983924e-08
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.001080000000000001,1.9081437382315677e-08
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0009000000000000015,1.050920114448927e-08
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0007200000000000019,5.7607126332399275e-09
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0005399999999999988,3.1678034844780353e-09
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0003599999999999992,1.7950640523839855e-09
+edge_profile_det,räumliches Robin-Profil: randbetont,-0.0001799999999999996,1.1353092343712264e-09
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0,9.40145865481404e-10
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0001799999999999996,1.1353092343712264e-09
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0003599999999999992,1.7950640523839855e-09
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0005399999999999988,3.1678034844780353e-09
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0007199999999999984,5.760712633239888e-09
+edge_profile_det,räumliches Robin-Profil: randbetont,0.000899999999999998,1.0509201144489196e-08
+edge_profile_det,räumliches Robin-Profil: randbetont,0.001080000000000001,1.9081437382315677e-08
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0012600000000000007,3.4405920215983924e-08
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0014400000000000003,6.156958118259032e-08
+edge_profile_det,räumliches Robin-Profil: randbetont,0.00162,1.093289413251533e-07
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0017999999999999995,1.926278918163011e-07
+edge_profile_det,räumliches Robin-Profil: randbetont,0.001979999999999999,3.3675379571659903e-07
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0021599999999999987,5.841353910629759e-07
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0023399999999999983,1.00536042506936e-06
+edge_profile_det,räumliches Robin-Profil: randbetont,0.002519999999999998,1.7168690580606796e-06
+edge_profile_det,räumliches Robin-Profil: randbetont,0.002700000000000001,2.9091066916673777e-06
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0028800000000000006,4.890904726391476e-06
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0030600000000000002,8.158791447576688e-06
+edge_profile_det,räumliches Robin-Profil: randbetont,0.00324,1.3504220967599508e-05
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0034199999999999994,2.2177894527029155e-05
+edge_profile_det,räumliches Robin-Profil: randbetont,0.003599999999999999,3.613916935292058e-05
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0037799999999999986,5.843096960604297e-05
+edge_profile_det,räumliches Robin-Profil: randbetont,0.003959999999999998,9.373787289961355e-05
+edge_profile_det,räumliches Robin-Profil: randbetont,0.004139999999999998,0.00014920870801010187
+edge_profile_det,räumliches Robin-Profil: randbetont,0.004320000000000001,0.00023565698650763285
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0045000000000000005,0.00036929509901042416
+edge_profile_det,räumliches Robin-Profil: randbetont,0.00468,0.0005742140870549108
+edge_profile_det,räumliches Robin-Profil: randbetont,0.00486,0.0008858928891992266
+edge_profile_det,räumliches Robin-Profil: randbetont,0.005039999999999999,0.001356112325176201
+edge_profile_det,räumliches Robin-Profil: randbetont,0.005219999999999999,0.0020597626789323536
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0053999999999999986,0.00310417202671539
+edge_profile_det,räumliches Robin-Profil: randbetont,0.005579999999999998,0.004641746850377531
+edge_profile_det,räumliches Robin-Profil: randbetont,0.005759999999999998,0.006886906648729363
+edge_profile_det,räumliches Robin-Profil: randbetont,0.005940000000000001,0.010138507234195498
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0061200000000000004,0.014809176490386764
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0063,0.021463219983219515
+edge_profile_det,räumliches Robin-Profil: randbetont,0.00648,0.030864974256048987
+edge_profile_det,räumliches Robin-Profil: randbetont,0.006659999999999999,0.04403966793563133
+edge_profile_det,räumliches Robin-Profil: randbetont,0.006839999999999999,0.06234896185851825
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0070199999999999985,0.08758333777155163
+edge_profile_det,räumliches Robin-Profil: randbetont,0.007199999999999998,0.122073341233642
+edge_profile_det,räumliches Robin-Profil: randbetont,0.007379999999999998,0.1688213021487304
+edge_profile_det,räumliches Robin-Profil: randbetont,0.007560000000000001,0.23165449634709448
+edge_profile_det,räumliches Robin-Profil: randbetont,0.00774,0.3153997152678099
+edge_profile_det,räumliches Robin-Profil: randbetont,0.00792,0.42607782686868045
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0081,0.5711151035630653
+edge_profile_det,räumliches Robin-Profil: randbetont,0.00828,0.7595658512975301
+edge_profile_det,räumliches Robin-Profil: randbetont,0.008459999999999999,1.0023382221687192
+edge_profile_det,räumliches Robin-Profil: randbetont,0.008639999999999998,1.3124121012712835
+edge_profile_det,räumliches Robin-Profil: randbetont,0.008819999999999998,1.7050347517418445
+edge_profile_det,räumliches Robin-Profil: randbetont,0.008999999999999998,2.1978766666458993
+edge_profile_det,räumliches Robin-Profil: randbetont,0.00918,2.8111270624797036
+edge_profile_det,räumliches Robin-Profil: randbetont,0.00936,3.567505966335488
+edge_profile_det,räumliches Robin-Profil: randbetont,0.00954,4.4921682550756445
+edge_profile_det,räumliches Robin-Profil: randbetont,0.00972,5.612474686069477
+edge_profile_det,räumliches Robin-Profil: randbetont,0.009899999999999999,6.957606300023585
+edge_profile_det,räumliches Robin-Profil: randbetont,0.010079999999999999,8.558001923722406
+edge_profile_det,räumliches Robin-Profil: randbetont,0.010259999999999998,10.444604118736377
+edge_profile_det,räumliches Robin-Profil: randbetont,0.010439999999999998,12.647906947411071
+edge_profile_det,räumliches Robin-Profil: randbetont,0.010619999999999997,15.196809321847311
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0108,18.11729021469168
+edge_profile_det,räumliches Robin-Profil: randbetont,0.01098,21.430936153470892
+edge_profile_det,räumliches Robin-Profil: randbetont,0.01116,25.153366458106593
+edge_profile_det,räumliches Robin-Profil: randbetont,0.01134,29.292616649437193
+edge_profile_det,räumliches Robin-Profil: randbetont,0.011519999999999999,33.847554203224036
+edge_profile_det,räumliches Robin-Profil: randbetont,0.011699999999999999,38.8064120804618
+edge_profile_det,räumliches Robin-Profil: randbetont,0.011879999999999998,44.14553294052891
+edge_profile_det,räumliches Robin-Profil: randbetont,0.012059999999999998,49.82841944177111
+edge_profile_det,räumliches Robin-Profil: randbetont,0.012239999999999997,55.80518257603094
+edge_profile_det,räumliches Robin-Profil: randbetont,0.012419999999999997,62.01246993348712
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0126,68.37393896764246
+edge_profile_det,räumliches Robin-Profil: randbetont,0.01278,74.80131707508139
+edge_profile_det,räumliches Robin-Profil: randbetont,0.01296,81.19606153932628
+edge_profile_det,räumliches Robin-Profil: randbetont,0.013139999999999999,87.45159959025149
+edge_profile_det,räumliches Robin-Profil: randbetont,0.013320000000000002,93.45609396847529
+edge_profile_det,räumliches Robin-Profil: randbetont,0.013500000000000002,99.09564479391305
+edge_profile_det,räumliches Robin-Profil: randbetont,0.013680000000000001,104.257806751437
+edge_profile_det,räumliches Robin-Profil: randbetont,0.01386,108.83527414637726
+edge_profile_det,räumliches Robin-Profil: randbetont,0.01404,112.72956753750438
+edge_profile_det,räumliches Robin-Profil: randbetont,0.01422,115.8545462636247
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0144,118.13957244053088
+edge_profile_det,räumliches Robin-Profil: randbetont,0.01458,119.53216433629456
+edge_profile_det,räumliches Robin-Profil: randbetont,0.014759999999999999,119.99999999987999
+edge_profile_det,räumliches Robin-Profil: randbetont,0.014939999999999998,119.53216433629456
+edge_profile_det,räumliches Robin-Profil: randbetont,0.015119999999999998,118.13957244053086
+edge_profile_det,räumliches Robin-Profil: randbetont,0.015299999999999998,115.85454626362467
+edge_profile_det,räumliches Robin-Profil: randbetont,0.015479999999999997,112.72956753750438
+edge_profile_det,räumliches Robin-Profil: randbetont,0.015659999999999997,108.83527414637722
+edge_profile_det,räumliches Robin-Profil: randbetont,0.015839999999999996,104.25780675143695
+edge_profile_det,räumliches Robin-Profil: randbetont,0.016019999999999996,99.095644793913
+edge_profile_det,räumliches Robin-Profil: randbetont,0.016199999999999996,93.45609396847522
+edge_profile_det,räumliches Robin-Profil: randbetont,0.016379999999999995,87.45159959025158
+edge_profile_det,räumliches Robin-Profil: randbetont,0.016559999999999995,81.19606153932637
+edge_profile_det,räumliches Robin-Profil: randbetont,0.01674,74.80131707508119
+edge_profile_det,räumliches Robin-Profil: randbetont,0.01692,68.37393896764225
+edge_profile_det,räumliches Robin-Profil: randbetont,0.0171,62.01246993348712
+edge_profile_det,räumliches Robin-Profil: randbetont,0.01728,55.80518257603087
+edge_profile_det,räumliches Robin-Profil: randbetont,0.01746,49.82841944177105
+edge_profile_det,räumliches Robin-Profil: randbetont,0.01764,44.14553294052885
+edge_profile_det,räumliches Robin-Profil: randbetont,0.01782,38.80641208046175
+edge_profile_det,räumliches Robin-Profil: randbetont,0.018,33.847554203223986
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.018,0.0
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01782,0.5999999999994005
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01764,1.1999999999987943
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01746,1.7999999999981946
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01728,2.399999999997595
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.017099999999999997,2.9999999999970024
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.016919999999999998,3.5999999999964025
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.016739999999999998,4.1999999999958035
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01656,4.799999999995204
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01638,5.399999999994598
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0162,5.999999999993999
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01602,6.599999999993399
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01584,7.199999999992793
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01566,7.799999999992194
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.015479999999999999,8.3999999999916
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0153,8.999999999991001
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.015119999999999998,9.599999999990402
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.014939999999999998,10.199999999989803
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.014759999999999999,10.799999999989202
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01458,11.399999999988596
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0144,11.999999999987997
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01422,12.599999999987396
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.014039999999999999,13.199999999986797
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.013859999999999999,13.799999999986198
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01368,14.399999999985598
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.013499999999999998,14.999999999984999
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.013319999999999999,15.5999999999844
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.013139999999999999,16.199999999983802
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01296,16.7999999999832
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01278,17.399999999982594
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0126,17.999999999981995
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.012419999999999999,18.599999999981403
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01224,19.199999999980797
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01206,19.799999999980198
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.011879999999999998,20.399999999979606
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.011699999999999999,20.999999999978996
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.011519999999999999,21.599999999978397
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01134,22.1999999999778
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01116,22.7999999999772
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01098,23.399999999976593
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.010799999999999999,23.999999999976
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01062,24.5999999999754
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.01044,25.199999999974793
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.010259999999999998,25.7999999999742
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.010079999999999999,26.399999999973602
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.009899999999999999,26.999999999972996
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00972,27.599999999972397
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00954,28.199999999971794
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00936,28.799999999971195
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.009179999999999999,29.399999999970596
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.009,29.999999999969997
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00882,30.5999999999694
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00864,31.1999999999688
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.008459999999999999,31.7999999999682
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00828,32.399999999967605
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0081,32.999999999967
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00792,33.5999999999664
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00774,34.19999999996579
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.007559999999999999,34.7999999999652
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.007379999999999999,35.3999999999646
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0072,35.999999999964
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00702,36.599999999963394
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.006839999999999999,37.199999999962806
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.006659999999999999,37.799999999962196
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00648,38.3999999999616
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0063,38.99999999996099
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0061200000000000004,39.599999999960396
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.005939999999999999,40.1999999999598
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0057599999999999995,40.7999999999592
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00558,41.39999999995859
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0054,41.99999999995799
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.005219999999999999,42.59999999995739
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.005039999999999999,43.199999999956795
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00486,43.79999999995619
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00468,44.3999999999556
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0045000000000000005,44.999999999954994
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.004319999999999999,45.5999999999544
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00414,46.199999999953796
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00396,46.7999999999532
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0037800000000000004,47.39999999995259
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.003599999999999999,47.999999999952
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0034199999999999994,48.5999999999514
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00324,49.1999999999508
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0030600000000000002,49.79999999995019
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0028800000000000006,50.39999999994959
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0026999999999999993,50.999999999949
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0025199999999999997,51.599999999948395
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0023399999999999983,52.1999999999478
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0021599999999999987,52.799999999947204
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.001979999999999999,53.399999999946594
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0017999999999999995,53.999999999946
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.00162,54.599999999945396
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0014400000000000003,55.199999999944794
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0012600000000000007,55.79999999994419
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.001080000000000001,56.39999999994359
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0009000000000000015,56.999999999942986
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0007200000000000019,57.59999999994238
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0005399999999999988,58.199999999941795
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0003599999999999992,58.7999999999412
+gradient_profile_det,räumliches Robin-Profil: Gradient,-0.0001799999999999996,59.39999999994059
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0,59.999999999939995
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0001799999999999996,60.5999999999394
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0003599999999999992,61.1999999999388
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0005399999999999988,61.799999999938194
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0007199999999999984,62.399999999937585
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.000899999999999998,62.99999999993699
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.001080000000000001,63.5999999999364
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0012600000000000007,64.1999999999358
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0014400000000000003,64.79999999993521
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.00162,65.39999999993461
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0017999999999999995,65.999999999934
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.001979999999999999,66.59999999993339
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0021599999999999987,67.1999999999328
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0023399999999999983,67.79999999993218
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.002519999999999998,68.39999999993158
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.002700000000000001,68.99999999993099
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0028800000000000006,69.5999999999304
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0030600000000000002,70.19999999992979
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.00324,70.79999999992918
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0034199999999999994,71.39999999992858
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.003599999999999999,71.999999999928
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0037799999999999986,72.59999999992739
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.003959999999999998,73.19999999992679
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.004139999999999998,73.79999999992619
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.004320000000000001,74.3999999999256
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0045000000000000005,74.999999999925
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.00468,75.59999999992439
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.00486,76.19999999992379
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.005039999999999999,76.7999999999232
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.005219999999999999,77.3999999999226
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0053999999999999986,77.99999999992198
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.005579999999999998,78.5999999999214
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.005759999999999998,79.19999999992079
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.005940000000000001,79.7999999999202
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0061200000000000004,80.3999999999196
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0063,80.999999999919
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.00648,81.5999999999184
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.006659999999999999,82.19999999991781
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.006839999999999999,82.79999999991718
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0070199999999999985,83.39999999991659
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.007199999999999998,83.99999999991599
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.007379999999999998,84.59999999991538
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.007560000000000001,85.1999999999148
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.00774,85.79999999991419
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.00792,86.39999999991359
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0081,86.99999999991299
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.00828,87.59999999991238
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.008459999999999999,88.1999999999118
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.008639999999999998,88.7999999999112
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.008819999999999998,89.39999999991059
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.008999999999999998,89.99999999990999
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.00918,90.5999999999094
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.00936,91.1999999999088
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.00954,91.7999999999082
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.00972,92.39999999990759
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.009899999999999999,92.999999999907
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.010079999999999999,93.5999999999064
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.010259999999999998,94.19999999990578
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.010439999999999998,94.7999999999052
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.010619999999999997,95.3999999999046
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0108,95.999999999904
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.01098,96.5999999999034
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.01116,97.1999999999028
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.01134,97.79999999990218
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.011519999999999999,98.3999999999016
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.011699999999999999,98.99999999990098
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.011879999999999998,99.59999999990038
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.012059999999999998,100.19999999989979
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.012239999999999997,100.79999999989919
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.012419999999999997,101.39999999989858
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0126,101.999999999898
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.01278,102.59999999989739
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.01296,103.19999999989679
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.013139999999999999,103.79999999989619
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.013320000000000002,104.3999999998956
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.013500000000000002,104.999999999895
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.013680000000000001,105.59999999989441
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.01386,106.19999999989379
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.01404,106.79999999989319
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.01422,107.3999999998926
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0144,107.999999999892
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.01458,108.5999999998914
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.014759999999999999,109.19999999989078
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.014939999999999998,109.7999999998902
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.015119999999999998,110.39999999988959
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.015299999999999998,110.999999999889
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.015479999999999997,111.59999999988838
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.015659999999999997,112.1999999998878
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.015839999999999996,112.79999999988718
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.016019999999999996,113.39999999988657
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.016199999999999996,113.99999999988597
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.016379999999999995,114.59999999988537
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.016559999999999995,115.19999999988478
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.01674,115.7999999998842
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.01692,116.39999999988359
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.0171,116.999999999883
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.01728,117.59999999988239
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.01746,118.1999999998818
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.01764,118.79999999988118
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.01782,119.39999999988059
+gradient_profile_det,räumliches Robin-Profil: Gradient,0.018,119.99999999987999
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.018,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01782,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01764,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01746,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01728,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.017099999999999997,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.016919999999999998,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.016739999999999998,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01656,0.055414547659281395
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01638,1.1065886041468536
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0162,2.3075250925168977
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01602,3.6717308052495286
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01584,5.212007109621485
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01566,6.929493865699674
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.015479999999999999,8.813252400833106
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0153,10.836784942336504
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.015119999999999998,12.97019000460596
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.014939999999999998,15.157113681682015
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.014759999999999999,17.351064186856217
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01458,19.496342559981333
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0144,21.540895038772447
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01422,23.440088954499377
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.014039999999999999,25.15972929315269
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.013859999999999999,26.682629977194463
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01368,28.008064417011155
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.013499999999999998,29.152705005689093
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.013319999999999999,30.15582758903196
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.013139999999999999,31.065558132414893
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01296,31.93559484247927
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01278,32.82969003971518
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0126,33.80745192193152
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.012419999999999999,34.91876284775762
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01224,36.198303118638066
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01206,37.67447191540094
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.011879999999999998,39.33839863059921
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.011699999999999999,41.16803751292041
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.011519999999999999,43.133902057314145
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01134,45.175416353723016
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01116,47.23073646784481
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01098,49.22938264474569
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.010799999999999999,51.09308610143455
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01062,52.75391883080149
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.01044,54.14339503684838
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.010259999999999998,55.19898781091369
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.010079999999999999,55.8797612573521
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.009899999999999999,56.14658087399518
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00972,55.98817462340341
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00954,55.3916600853309
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00936,54.37425001541399
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.009179999999999999,52.96107811948862
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.009,51.199287729019055
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00882,49.13301500511106
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00864,46.830256192847294
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.008459999999999999,44.37288892471523
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00828,41.83037021499561
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0081,39.29467321905641
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00792,36.85011230592159
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00774,34.57011860692343
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.007559999999999999,32.525109980163826
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.007379999999999999,30.759577321053467
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0072,29.315069244103697
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00702,28.20682323050826
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.006839999999999999,27.434901941174605
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.006659999999999999,26.96822601644284
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00648,26.771190671473377
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0063,26.777553472963604
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0061200000000000004,26.933822412109
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.005939999999999999,27.15124349753772
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0057599999999999995,27.353051828847434
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00558,27.473968527193144
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0054,27.445569990538154
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.005219999999999999,27.226197672765082
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.005039999999999999,26.796090714576668
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00486,26.15203312412717
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00468,25.324563731827958
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0045000000000000005,24.36619431245178
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.004319999999999999,23.35750717661159
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00414,22.39965817178032
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00396,21.605744349877433
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0037800000000000004,21.093995130683037
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.003599999999999999,21.000450263371057
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0034199999999999994,21.434595892036935
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00324,22.522502120911476
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0030600000000000002,24.346130180856257
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0028800000000000006,26.96384278864093
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0026999999999999993,30.411628432425026
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0025199999999999997,34.690433616410644
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0023399999999999983,39.76476362164975
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0021599999999999987,45.55892306388469
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.001979999999999999,51.96919257606621
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0017999999999999995,58.8610613129263
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.00162,66.0637550111979
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0014400000000000003,73.39279586891195
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0012600000000000007,80.6510361039631
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.001080000000000001,87.62164483553626
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0009000000000000015,94.09131803271147
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0007200000000000019,99.85704470520467
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0005399999999999988,104.719008779048
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0003599999999999992,108.50224681589728
+patchy_profile_det,räumliches Robin-Profil: patchy,-0.0001799999999999996,111.07693441354958
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0,112.3297612560073
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0001799999999999996,112.20306588615932
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0003599999999999992,110.67810000558366
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0005399999999999988,107.79237822720054
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0007199999999999984,103.63461803266252
+patchy_profile_det,räumliches Robin-Profil: patchy,0.000899999999999998,98.34375286684771
+patchy_profile_det,räumliches Robin-Profil: patchy,0.001080000000000001,92.10394383543913
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0012600000000000007,85.13838498591187
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0014400000000000003,77.70703325254934
+patchy_profile_det,räumliches Robin-Profil: patchy,0.00162,70.08357483909508
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0017999999999999995,62.54895154885043
+patchy_profile_det,räumliches Robin-Profil: patchy,0.001979999999999999,55.381162670668964
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0021599999999999987,48.844664808905065
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0023399999999999983,43.16715278756773
+patchy_profile_det,räumliches Robin-Profil: patchy,0.002519999999999998,38.53419439432371
+patchy_profile_det,räumliches Robin-Profil: patchy,0.002700000000000001,35.0946108129666
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0028800000000000006,32.93915470155698
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0030600000000000002,32.102768522602155
+patchy_profile_det,räumliches Robin-Profil: patchy,0.00324,32.572733610373746
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0034199999999999994,34.28985058562385
+patchy_profile_det,räumliches Robin-Profil: patchy,0.003599999999999999,37.152220127634486
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0037799999999999986,41.033627334939695
+patchy_profile_det,räumliches Robin-Profil: patchy,0.003959999999999998,45.777323857748456
+patchy_profile_det,räumliches Robin-Profil: patchy,0.004139999999999998,51.21510346426284
+patchy_profile_det,räumliches Robin-Profil: patchy,0.004320000000000001,57.177045698182894
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0045000000000000005,63.48780138036165
+patchy_profile_det,räumliches Robin-Profil: patchy,0.00468,69.98231691373854
+patchy_profile_det,räumliches Robin-Profil: patchy,0.00486,76.50085378395417
+patchy_profile_det,räumliches Robin-Profil: patchy,0.005039999999999999,82.90451631450497
+patchy_profile_det,räumliches Robin-Profil: patchy,0.005219999999999999,89.06635797454949
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0053999999999999986,94.87530442015039
+patchy_profile_det,räumliches Robin-Profil: patchy,0.005579999999999998,100.23357253041856
+patchy_profile_det,räumliches Robin-Profil: patchy,0.005759999999999998,105.06646257891428
+patchy_profile_det,räumliches Robin-Profil: patchy,0.005940000000000001,109.30692385281237
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0061200000000000004,112.89306367973998
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0063,115.78988657740452
+patchy_profile_det,räumliches Robin-Profil: patchy,0.00648,117.9549050152591
+patchy_profile_det,räumliches Robin-Profil: patchy,0.006659999999999999,119.3644386974592
+patchy_profile_det,räumliches Robin-Profil: patchy,0.006839999999999999,119.99999999989309
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0070199999999999985,119.84871238891687
+patchy_profile_det,räumliches Robin-Profil: patchy,0.007199999999999998,118.9059041481545
+patchy_profile_det,räumliches Robin-Profil: patchy,0.007379999999999998,117.17965836136258
+patchy_profile_det,räumliches Robin-Profil: patchy,0.007560000000000001,114.68301695974883
+patchy_profile_det,räumliches Robin-Profil: patchy,0.00774,111.44109771186004
+patchy_profile_det,räumliches Robin-Profil: patchy,0.00792,107.49027818652729
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0081,102.879266668748
+patchy_profile_det,räumliches Robin-Profil: patchy,0.00828,97.67304643602377
+patchy_profile_det,räumliches Robin-Profil: patchy,0.008459999999999999,91.9508413664912
+patchy_profile_det,räumliches Robin-Profil: patchy,0.008639999999999998,85.79982914136714
+patchy_profile_det,räumliches Robin-Profil: patchy,0.008819999999999998,79.33723054035798
+patchy_profile_det,räumliches Robin-Profil: patchy,0.008999999999999998,72.67365927218566
+patchy_profile_det,räumliches Robin-Profil: patchy,0.00918,65.92807791440214
+patchy_profile_det,räumliches Robin-Profil: patchy,0.00936,59.22494942041213
+patchy_profile_det,räumliches Robin-Profil: patchy,0.00954,52.691347093657924
+patchy_profile_det,räumliches Robin-Profil: patchy,0.00972,46.44181462549248
+patchy_profile_det,räumliches Robin-Profil: patchy,0.009899999999999999,40.57245643011914
+patchy_profile_det,räumliches Robin-Profil: patchy,0.010079999999999999,35.17613118979279
+patchy_profile_det,räumliches Robin-Profil: patchy,0.010259999999999998,30.326374826170404
+patchy_profile_det,räumliches Robin-Profil: patchy,0.010439999999999998,26.066684603368127
+patchy_profile_det,räumliches Robin-Profil: patchy,0.010619999999999997,22.430392955130856
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0108,19.42598351355392
+patchy_profile_det,räumliches Robin-Profil: patchy,0.01098,17.036675250807402
+patchy_profile_det,räumliches Robin-Profil: patchy,0.01116,15.245523192149808
+patchy_profile_det,räumliches Robin-Profil: patchy,0.01134,14.001787680735772
+patchy_profile_det,räumliches Robin-Profil: patchy,0.011519999999999999,13.243586175316414
+patchy_profile_det,räumliches Robin-Profil: patchy,0.011699999999999999,12.907164066919623
+patchy_profile_det,räumliches Robin-Profil: patchy,0.011879999999999998,12.911127147011896
+patchy_profile_det,räumliches Robin-Profil: patchy,0.012059999999999998,13.172592934611023
+patchy_profile_det,räumliches Robin-Profil: patchy,0.012239999999999997,13.603990347933141
+patchy_profile_det,räumliches Robin-Profil: patchy,0.012419999999999997,14.118461572991118
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0126,14.63060675585606
+patchy_profile_det,räumliches Robin-Profil: patchy,0.01278,15.062824830982112
+patchy_profile_det,räumliches Robin-Profil: patchy,0.01296,15.346630950020476
+patchy_profile_det,räumliches Robin-Profil: patchy,0.013139999999999999,15.42232091543264
+patchy_profile_det,räumliches Robin-Profil: patchy,0.013320000000000002,15.246090589425323
+patchy_profile_det,räumliches Robin-Profil: patchy,0.013500000000000002,14.793740238453315
+patchy_profile_det,räumliches Robin-Profil: patchy,0.013680000000000001,14.056943010450457
+patchy_profile_det,räumliches Robin-Profil: patchy,0.01386,13.040195008602867
+patchy_profile_det,räumliches Robin-Profil: patchy,0.01404,11.767205025277647
+patchy_profile_det,räumliches Robin-Profil: patchy,0.01422,10.273782701157192
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0144,8.596568580067297
+patchy_profile_det,räumliches Robin-Profil: patchy,0.01458,6.783030993659371
+patchy_profile_det,räumliches Robin-Profil: patchy,0.014759999999999999,4.871703867636376
+patchy_profile_det,räumliches Robin-Profil: patchy,0.014939999999999998,2.8949250430783833
+patchy_profile_det,räumliches Robin-Profil: patchy,0.015119999999999998,0.8787075799320879
+patchy_profile_det,räumliches Robin-Profil: patchy,0.015299999999999998,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,0.015479999999999997,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,0.015659999999999997,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,0.015839999999999996,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,0.016019999999999996,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,0.016199999999999996,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,0.016379999999999995,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,0.016559999999999995,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,0.01674,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,0.01692,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,0.0171,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,0.01728,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,0.01746,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,0.01764,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,0.01782,0.0
+patchy_profile_det,räumliches Robin-Profil: patchy,0.018,0.0
+center_profile_fluct,mittiges Profil + Fluktuation,-0.018,0.03989026844267975
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01782,0.046926444964403964
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01764,0.05511366569165574
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01746,0.06462371024206387
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01728,0.07565113137188369
+center_profile_fluct,mittiges Profil + Fluktuation,-0.017099999999999997,0.08841580672937133
+center_profile_fluct,mittiges Profil + Fluktuation,-0.016919999999999998,0.10316570450210338
+center_profile_fluct,mittiges Profil + Fluktuation,-0.016739999999999998,0.12017987013588806
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01656,0.13977163979008284
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01638,0.16229208434648035
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0162,0.1881336855795988
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01602,0.21773424350033743
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01584,0.25158101088028023
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01566,0.2902150475318164
+center_profile_fluct,mittiges Profil + Fluktuation,-0.015479999999999999,0.33423578304553503
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0153,0.38430577236238544
+center_profile_fluct,mittiges Profil + Fluktuation,-0.015119999999999998,0.4411556237817805
+center_profile_fluct,mittiges Profil + Fluktuation,-0.014939999999999998,0.5055890737835529
+center_profile_fluct,mittiges Profil + Fluktuation,-0.014759999999999999,0.5784881773857143
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01458,0.6608185766949867
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0144,0.7536348038677722
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01422,0.8580855679316906
+center_profile_fluct,mittiges Profil + Fluktuation,-0.014039999999999999,0.9754189678807039
+center_profile_fluct,mittiges Profil + Fluktuation,-0.013859999999999999,1.1069875672219736
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01368,1.254253257805411
+center_profile_fluct,mittiges Profil + Fluktuation,-0.013499999999999998,1.4187918334065852
+center_profile_fluct,mittiges Profil + Fluktuation,-0.013319999999999999,1.6022971862738673
+center_profile_fluct,mittiges Profil + Fluktuation,-0.013139999999999999,1.8065850328182782
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01296,2.0335960679596496
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01278,2.285398441498282
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0126,2.564189444420216
+center_profile_fluct,mittiges Profil + Fluktuation,-0.012419999999999999,2.8722962884397494
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01224,3.2121758585145224
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01206,3.5864133157212543
+center_profile_fluct,mittiges Profil + Fluktuation,-0.011879999999999998,3.997719426939801
+center_profile_fluct,mittiges Profil + Fluktuation,-0.011699999999999999,4.448926498445319
+center_profile_fluct,mittiges Profil + Fluktuation,-0.011519999999999999,4.942982792931525
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01134,5.482945313852706
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01116,6.071970847435606
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01098,6.713305161411627
+center_profile_fluct,mittiges Profil + Fluktuation,-0.010799999999999999,7.41027027057181
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01062,8.16624969273878
+center_profile_fluct,mittiges Profil + Fluktuation,-0.01044,8.984671634738158
+center_profile_fluct,mittiges Profil + Fluktuation,-0.010259999999999998,9.868990066454344
+center_profile_fluct,mittiges Profil + Fluktuation,-0.010079999999999999,10.822663662051145
+center_profile_fluct,mittiges Profil + Fluktuation,-0.009899999999999999,11.849132610859565
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00972,12.951793326166126
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00954,14.133971108011243
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00936,15.398890845907657
+center_profile_fluct,mittiges Profil + Fluktuation,-0.009179999999999999,16.74964587884094
+center_profile_fluct,mittiges Profil + Fluktuation,-0.009,18.189165162690138
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00882,19.720178928926572
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00864,21.34518305268238
+center_profile_fluct,mittiges Profil + Fluktuation,-0.008459999999999999,23.066402382547206
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00828,24.88575331823384
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0081,26.80480595499194
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00792,28.824746144758322
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00774,30.94633785290478
+center_profile_fluct,mittiges Profil + Fluktuation,-0.007559999999999999,33.169886215463876
+center_profile_fluct,mittiges Profil + Fluktuation,-0.007379999999999999,35.495201724258294
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0072,37.921565985826945
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00702,40.44769951384182
+center_profile_fluct,mittiges Profil + Fluktuation,-0.006839999999999999,43.0717320233014
+center_profile_fluct,mittiges Profil + Fluktuation,-0.006659999999999999,45.791175697664016
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00648,48.602901896812
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0063,51.503121763950396
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0061200000000000004,54.48737117296066
+center_profile_fluct,mittiges Profil + Fluktuation,-0.005939999999999999,57.550500434167446
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0057599999999999995,60.68666914585858
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00558,63.889346541257275
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0054,67.15131763613903
+center_profile_fluct,mittiges Profil + Fluktuation,-0.005219999999999999,70.46469543119322
+center_profile_fluct,mittiges Profil + Fluktuation,-0.005039999999999999,73.82093936595298
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00486,77.2108801581921
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00468,80.62475109476246
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0045000000000000005,84.05222576769253
+center_profile_fluct,mittiges Profil + Fluktuation,-0.004319999999999999,87.4824621738655
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00414,90.90415301871552
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00396,94.30558198519017
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0037800000000000004,97.67468564984664
+center_profile_fluct,mittiges Profil + Fluktuation,-0.003599999999999999,100.99912064956486
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0034199999999999994,104.26633562618068
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00324,107.46364740358864
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0030600000000000002,110.57832078374757
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0028800000000000006,113.59765128572181
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0026999999999999993,116.50905009652564
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0025199999999999997,119.30013045515028
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0023399999999999983,121.95879465268703
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0021599999999999987,124.47332080273557
+center_profile_fluct,mittiges Profil + Fluktuation,-0.001979999999999999,126.83244851798973
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0017999999999999995,129.02546262155244
+center_profile_fluct,mittiges Profil + Fluktuation,-0.00162,131.04227402550993
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0014400000000000003,132.87349692477517
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0012600000000000007,134.51052148119072
+center_profile_fluct,mittiges Profil + Fluktuation,-0.001080000000000001,135.94558121117078
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0009000000000000015,137.17181433938143
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0007200000000000019,138.18331844054111
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0005399999999999988,138.97519776062913
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0003599999999999992,139.5436026867055
+center_profile_fluct,mittiges Profil + Fluktuation,-0.0001799999999999996,139.88576092011417
+center_profile_fluct,mittiges Profil + Fluktuation,0.0,139.99999999986
+center_profile_fluct,mittiges Profil + Fluktuation,0.0001799999999999996,139.88576092011417
+center_profile_fluct,mittiges Profil + Fluktuation,0.0003599999999999992,139.5436026867055
+center_profile_fluct,mittiges Profil + Fluktuation,0.0005399999999999988,138.97519776062913
+center_profile_fluct,mittiges Profil + Fluktuation,0.0007199999999999984,138.18331844054114
+center_profile_fluct,mittiges Profil + Fluktuation,0.000899999999999998,137.17181433938143
+center_profile_fluct,mittiges Profil + Fluktuation,0.001080000000000001,135.94558121117078
+center_profile_fluct,mittiges Profil + Fluktuation,0.0012600000000000007,134.51052148119072
+center_profile_fluct,mittiges Profil + Fluktuation,0.0014400000000000003,132.87349692477517
+center_profile_fluct,mittiges Profil + Fluktuation,0.00162,131.04227402550993
+center_profile_fluct,mittiges Profil + Fluktuation,0.0017999999999999995,129.02546262155244
+center_profile_fluct,mittiges Profil + Fluktuation,0.001979999999999999,126.83244851798973
+center_profile_fluct,mittiges Profil + Fluktuation,0.0021599999999999987,124.47332080273557
+center_profile_fluct,mittiges Profil + Fluktuation,0.0023399999999999983,121.95879465268703
+center_profile_fluct,mittiges Profil + Fluktuation,0.002519999999999998,119.3001304551503
+center_profile_fluct,mittiges Profil + Fluktuation,0.002700000000000001,116.50905009652561
+center_profile_fluct,mittiges Profil + Fluktuation,0.0028800000000000006,113.59765128572181
+center_profile_fluct,mittiges Profil + Fluktuation,0.0030600000000000002,110.57832078374757
+center_profile_fluct,mittiges Profil + Fluktuation,0.00324,107.46364740358864
+center_profile_fluct,mittiges Profil + Fluktuation,0.0034199999999999994,104.26633562618068
+center_profile_fluct,mittiges Profil + Fluktuation,0.003599999999999999,100.99912064956486
+center_profile_fluct,mittiges Profil + Fluktuation,0.0037799999999999986,97.67468564984667
+center_profile_fluct,mittiges Profil + Fluktuation,0.003959999999999998,94.30558198519022
+center_profile_fluct,mittiges Profil + Fluktuation,0.004139999999999998,90.90415301871555
+center_profile_fluct,mittiges Profil + Fluktuation,0.004320000000000001,87.48246217386547
+center_profile_fluct,mittiges Profil + Fluktuation,0.0045000000000000005,84.05222576769253
+center_profile_fluct,mittiges Profil + Fluktuation,0.00468,80.62475109476246
+center_profile_fluct,mittiges Profil + Fluktuation,0.00486,77.2108801581921
+center_profile_fluct,mittiges Profil + Fluktuation,0.005039999999999999,73.82093936595298
+center_profile_fluct,mittiges Profil + Fluktuation,0.005219999999999999,70.46469543119322
+center_profile_fluct,mittiges Profil + Fluktuation,0.0053999999999999986,67.15131763613907
+center_profile_fluct,mittiges Profil + Fluktuation,0.005579999999999998,63.8893465412573
+center_profile_fluct,mittiges Profil + Fluktuation,0.005759999999999998,60.686669145858616
+center_profile_fluct,mittiges Profil + Fluktuation,0.005940000000000001,57.55050043416742
+center_profile_fluct,mittiges Profil + Fluktuation,0.0061200000000000004,54.48737117296066
+center_profile_fluct,mittiges Profil + Fluktuation,0.0063,51.503121763950396
+center_profile_fluct,mittiges Profil + Fluktuation,0.00648,48.602901896812
+center_profile_fluct,mittiges Profil + Fluktuation,0.006659999999999999,45.791175697664016
+center_profile_fluct,mittiges Profil + Fluktuation,0.006839999999999999,43.0717320233014
+center_profile_fluct,mittiges Profil + Fluktuation,0.0070199999999999985,40.44769951384182
+center_profile_fluct,mittiges Profil + Fluktuation,0.007199999999999998,37.92156598582698
+center_profile_fluct,mittiges Profil + Fluktuation,0.007379999999999998,35.49520172425832
+center_profile_fluct,mittiges Profil + Fluktuation,0.007560000000000001,33.16988621546384
+center_profile_fluct,mittiges Profil + Fluktuation,0.00774,30.94633785290478
+center_profile_fluct,mittiges Profil + Fluktuation,0.00792,28.824746144758322
+center_profile_fluct,mittiges Profil + Fluktuation,0.0081,26.80480595499194
+center_profile_fluct,mittiges Profil + Fluktuation,0.00828,24.88575331823384
+center_profile_fluct,mittiges Profil + Fluktuation,0.008459999999999999,23.066402382547206
+center_profile_fluct,mittiges Profil + Fluktuation,0.008639999999999998,21.345183052682405
+center_profile_fluct,mittiges Profil + Fluktuation,0.008819999999999998,19.720178928926583
+center_profile_fluct,mittiges Profil + Fluktuation,0.008999999999999998,18.189165162690145
+center_profile_fluct,mittiges Profil + Fluktuation,0.00918,16.749645878840933
+center_profile_fluct,mittiges Profil + Fluktuation,0.00936,15.398890845907657
+center_profile_fluct,mittiges Profil + Fluktuation,0.00954,14.133971108011243
+center_profile_fluct,mittiges Profil + Fluktuation,0.00972,12.951793326166126
+center_profile_fluct,mittiges Profil + Fluktuation,0.009899999999999999,11.849132610859565
+center_profile_fluct,mittiges Profil + Fluktuation,0.010079999999999999,10.822663662051145
+center_profile_fluct,mittiges Profil + Fluktuation,0.010259999999999998,9.868990066454344
+center_profile_fluct,mittiges Profil + Fluktuation,0.010439999999999998,8.98467163473817
+center_profile_fluct,mittiges Profil + Fluktuation,0.010619999999999997,8.166249692738784
+center_profile_fluct,mittiges Profil + Fluktuation,0.0108,7.410270270571806
+center_profile_fluct,mittiges Profil + Fluktuation,0.01098,6.713305161411627
+center_profile_fluct,mittiges Profil + Fluktuation,0.01116,6.071970847435606
+center_profile_fluct,mittiges Profil + Fluktuation,0.01134,5.482945313852706
+center_profile_fluct,mittiges Profil + Fluktuation,0.011519999999999999,4.942982792931525
+center_profile_fluct,mittiges Profil + Fluktuation,0.011699999999999999,4.448926498445319
+center_profile_fluct,mittiges Profil + Fluktuation,0.011879999999999998,3.997719426939801
+center_profile_fluct,mittiges Profil + Fluktuation,0.012059999999999998,3.5864133157212605
+center_profile_fluct,mittiges Profil + Fluktuation,0.012239999999999997,3.212175858514525
+center_profile_fluct,mittiges Profil + Fluktuation,0.012419999999999997,2.8722962884397516
+center_profile_fluct,mittiges Profil + Fluktuation,0.0126,2.564189444420216
+center_profile_fluct,mittiges Profil + Fluktuation,0.01278,2.285398441498282
+center_profile_fluct,mittiges Profil + Fluktuation,0.01296,2.0335960679596496
+center_profile_fluct,mittiges Profil + Fluktuation,0.013139999999999999,1.8065850328182782
+center_profile_fluct,mittiges Profil + Fluktuation,0.013320000000000002,1.6022971862738618
+center_profile_fluct,mittiges Profil + Fluktuation,0.013500000000000002,1.4187918334065825
+center_profile_fluct,mittiges Profil + Fluktuation,0.013680000000000001,1.254253257805411
+center_profile_fluct,mittiges Profil + Fluktuation,0.01386,1.1069875672219718
+center_profile_fluct,mittiges Profil + Fluktuation,0.01404,0.9754189678807039
+center_profile_fluct,mittiges Profil + Fluktuation,0.01422,0.8580855679316906
+center_profile_fluct,mittiges Profil + Fluktuation,0.0144,0.7536348038677722
+center_profile_fluct,mittiges Profil + Fluktuation,0.01458,0.6608185766949867
+center_profile_fluct,mittiges Profil + Fluktuation,0.014759999999999999,0.5784881773857143
+center_profile_fluct,mittiges Profil + Fluktuation,0.014939999999999998,0.5055890737835529
+center_profile_fluct,mittiges Profil + Fluktuation,0.015119999999999998,0.4411556237817805
+center_profile_fluct,mittiges Profil + Fluktuation,0.015299999999999998,0.38430577236238544
+center_profile_fluct,mittiges Profil + Fluktuation,0.015479999999999997,0.3342357830455356
+center_profile_fluct,mittiges Profil + Fluktuation,0.015659999999999997,0.29021504753181765
+center_profile_fluct,mittiges Profil + Fluktuation,0.015839999999999996,0.2515810108802809
+center_profile_fluct,mittiges Profil + Fluktuation,0.016019999999999996,0.21773424350033801
+center_profile_fluct,mittiges Profil + Fluktuation,0.016199999999999996,0.1881336855795993
+center_profile_fluct,mittiges Profil + Fluktuation,0.016379999999999995,0.1622920843464808
+center_profile_fluct,mittiges Profil + Fluktuation,0.016559999999999995,0.1397716397900832
+center_profile_fluct,mittiges Profil + Fluktuation,0.01674,0.12017987013588753
+center_profile_fluct,mittiges Profil + Fluktuation,0.01692,0.1031657045021031
+center_profile_fluct,mittiges Profil + Fluktuation,0.0171,0.08841580672937109
+center_profile_fluct,mittiges Profil + Fluktuation,0.01728,0.07565113137188369
+center_profile_fluct,mittiges Profil + Fluktuation,0.01746,0.06462371024206387
+center_profile_fluct,mittiges Profil + Fluktuation,0.01764,0.05511366569165574
+center_profile_fluct,mittiges Profil + Fluktuation,0.01782,0.046926444964403964
+center_profile_fluct,mittiges Profil + Fluktuation,0.018,0.03989026844267975
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.018,39.488813237094654
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01782,45.27414742720538
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01764,51.503121763950325
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01746,58.13315601539956
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01728,65.10604633870268
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.017099999999999997,72.34788158906838
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.016919999999999998,79.76959546224944
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.016739999999999998,87.26820325426155
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01656,94.72873846254733
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01638,102.02686618862668
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0162,109.0321096298876
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01602,115.61158559289842
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01584,121.63410787667631
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01566,126.97448650410664
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.015479999999999999,131.51782879375506
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0153,135.1636373075621
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.015119999999999998,137.82950118061933
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.014939999999999998,139.454191725677
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.014759999999999999,139.99999999986
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01458,139.454191725677
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0144,137.82950118061936
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01422,135.16363730756214
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.014039999999999999,131.51782879375511
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.013859999999999999,126.97448650410675
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01368,121.63410787667644
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.013499999999999998,115.6115855928985
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.013319999999999999,109.03210962988769
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.013139999999999999,102.02686618862674
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01296,94.72873846254733
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01278,87.26820325426162
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0126,79.76959546224953
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.012419999999999999,72.34788158906838
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01224,65.10604633870284
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01206,58.1331560153997
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.011879999999999998,51.503121763950396
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.011699999999999999,45.27414742720543
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.011519999999999999,39.48881323709471
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01134,34.174719424343394
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01116,29.34559420112436
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01098,25.002758845716038
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.010799999999999999,21.13683858380692
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01062,17.72961087548856
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.01044,14.75589143864629
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.010259999999999998,12.185371471859106
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.010079999999999999,9.984335577676141
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.009899999999999999,8.117207350027515
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00972,6.547887133747723
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00954,5.2408629642549185
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00936,4.1620902940580695
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.009179999999999999,3.2796482395596454
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.009,2.5641894444202253
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00882,1.9892072103654885
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00864,1.5311474514831667
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.008459999999999999,1.1693945925301723
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00828,0.8861601598471184
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0081,0.6663009541569095
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00792,0.4970907980134605
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00774,0.3679663344791116
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.007559999999999999,0.27026357907160947
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.007379999999999999,0.19695818584018546
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0072,0.14241889810591601
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00702,0.10218056073347716
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.006839999999999999,0.07274045550160463
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.006659999999999999,0.05137961259156988
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00648,0.036009136632057154
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0063,0.0250404233137561
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0061200000000000004,0.01727737257211789
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.005939999999999999,0.011828258439894683
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0057599999999999995,0.008034724423517619
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00558,0.005415371325440453
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0054,0.0036215340311679676
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.005219999999999999,0.0024030564587544127
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.005039999999999999,0.0015821310460389013
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00486,0.0010335417040657645
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00468,0.0006699164348973959
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0045000000000000005,0.00043084428217882815
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.004319999999999999,0.0002749331509255707
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00414,0.00017407682601178673
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00396,0.00010936085171621697
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0037800000000000004,6.816946454038396e-05
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.003599999999999999,4.216236424507401e-05
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0034199999999999994,2.5874210281534013e-05
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00324,1.5754924462199428e-05
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0030600000000000002,9.518590022172803e-06
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0028800000000000006,5.706055514123389e-06
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0026999999999999993,3.393957806945274e-06
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0025199999999999997,2.003013901070807e-06
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0023399999999999983,1.1729204959142532e-06
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0021599999999999987,6.814912895734719e-07
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.001979999999999999,3.9287942833603216e-07
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0017999999999999995,2.2473254045235128e-07
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.00162,1.2755043154601218e-07
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0014400000000000003,7.183117804635537e-08
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0012600000000000007,4.014024025198124e-08
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.001080000000000001,2.2261676946034956e-08
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0009000000000000015,1.2260734668570814e-08
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0007200000000000019,6.720831405446582e-09
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0005399999999999988,3.695770731891041e-09
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0003599999999999992,2.0942413944479828e-09
+edge_profile_fluct,randbetontes Profil + Fluktuation,-0.0001799999999999996,1.3245274400997641e-09
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0,1.096836843061638e-09
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0001799999999999996,1.3245274400997641e-09
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0003599999999999992,2.0942413944479828e-09
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0005399999999999988,3.695770731891041e-09
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0007199999999999984,6.7208314054465355e-09
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.000899999999999998,1.2260734668570728e-08
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.001080000000000001,2.2261676946034956e-08
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0012600000000000007,4.014024025198124e-08
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0014400000000000003,7.183117804635537e-08
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.00162,1.2755043154601218e-07
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0017999999999999995,2.2473254045235128e-07
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.001979999999999999,3.9287942833603216e-07
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0021599999999999987,6.814912895734719e-07
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0023399999999999983,1.1729204959142532e-06
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.002519999999999998,2.003013901070793e-06
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.002700000000000001,3.393957806945274e-06
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0028800000000000006,5.706055514123389e-06
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0030600000000000002,9.518590022172803e-06
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.00324,1.5754924462199428e-05
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0034199999999999994,2.5874210281534013e-05
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.003599999999999999,4.216236424507401e-05
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0037799999999999986,6.816946454038346e-05
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.003959999999999998,0.00010936085171621581
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.004139999999999998,0.0001740768260117855
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.004320000000000001,0.0002749331509255717
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0045000000000000005,0.00043084428217882815
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.00468,0.0006699164348973959
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.00486,0.0010335417040657645
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.005039999999999999,0.0015821310460389013
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.005219999999999999,0.0024030564587544127
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0053999999999999986,0.003621534031167955
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.005579999999999998,0.005415371325440453
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.005759999999999998,0.008034724423517589
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.005940000000000001,0.011828258439894747
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0061200000000000004,0.01727737257211789
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0063,0.0250404233137561
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.00648,0.036009136632057154
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.006659999999999999,0.05137961259156988
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.006839999999999999,0.07274045550160463
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0070199999999999985,0.1021805607334769
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.007199999999999998,0.14241889810591565
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.007379999999999998,0.19695818584018546
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.007560000000000001,0.2702635790716102
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.00774,0.3679663344791116
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.00792,0.4970907980134605
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0081,0.6663009541569095
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.00828,0.8861601598471184
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.008459999999999999,1.1693945925301723
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.008639999999999998,1.531147451483164
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.008819999999999998,1.9892072103654852
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.008999999999999998,2.564189444420216
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.00918,3.279648239559654
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.00936,4.1620902940580695
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.00954,5.2408629642549185
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.00972,6.547887133747723
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.009899999999999999,8.117207350027515
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.010079999999999999,9.984335577676141
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.010259999999999998,12.185371471859106
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.010439999999999998,14.75589143864625
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.010619999999999997,17.72961087548853
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0108,21.13683858380696
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.01098,25.002758845716038
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.01116,29.34559420112436
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.01134,34.174719424343394
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.011519999999999999,39.48881323709471
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.011699999999999999,45.27414742720543
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.011879999999999998,51.503121763950396
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.012059999999999998,58.13315601539963
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.012239999999999997,65.10604633870275
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.012419999999999997,72.34788158906831
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0126,79.76959546224953
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.01278,87.26820325426162
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.01296,94.72873846254733
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.013139999999999999,102.02686618862674
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.013320000000000002,109.03210962988783
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.013500000000000002,115.61158559289856
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.013680000000000001,121.6341078766765
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.01386,126.9744865041068
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.01404,131.51782879375511
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.01422,135.16363730756214
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0144,137.82950118061936
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.01458,139.454191725677
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.014759999999999999,139.99999999986
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.014939999999999998,139.454191725677
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.015119999999999998,137.82950118061933
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.015299999999999998,135.1636373075621
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.015479999999999997,131.51782879375511
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.015659999999999997,126.97448650410675
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.015839999999999996,121.63410787667644
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.016019999999999996,115.6115855928985
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.016199999999999996,109.03210962988776
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.016379999999999995,102.02686618862684
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.016559999999999995,94.72873846254743
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.01674,87.26820325426138
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.01692,79.76959546224928
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.0171,72.34788158906831
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.01728,65.10604633870268
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.01746,58.13315601539956
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.01764,51.503121763950325
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.01782,45.27414742720538
+edge_profile_fluct,randbetontes Profil + Fluktuation,0.018,39.488813237094654
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.018,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01782,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01764,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01746,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01728,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.017099999999999997,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.016919999999999998,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.016739999999999998,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01656,0.06465030560249496
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01638,1.2910200381713293
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0162,2.692112607936381
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01602,4.283685939457784
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01584,6.080674961225066
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01566,8.084409509982953
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.015479999999999999,10.282127800971956
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0153,12.642915766059254
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.015119999999999998,15.131888338706954
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.014939999999999998,17.683299295295683
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.014759999999999999,20.24290821799892
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01458,22.74573298664489
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0144,25.131044211901187
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01422,27.34677044691594
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.014039999999999999,29.35301750867814
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.013859999999999999,31.12973497339354
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01368,32.67607515317968
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.013499999999999998,34.01148917330394
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.013319999999999999,35.18179885387062
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.013139999999999999,36.243151154484046
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01296,37.25819398289248
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01278,38.30130504633438
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0126,39.442027242253445
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.012419999999999999,40.738556655717225
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01224,42.23135363841108
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01206,43.95355056796777
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.011879999999999998,45.894798402365744
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.011699999999999999,48.02937709840714
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.011519999999999999,50.32288573353317
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01134,52.70465241267685
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01116,55.102525879152275
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01098,57.4342797522033
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.010799999999999999,59.608600451673645
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01062,61.54623863593507
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.01044,63.16729420965645
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.010259999999999998,64.39881911273264
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.010079999999999999,65.19305480024413
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.009899999999999999,65.50434435299437
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00972,65.31953706063732
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00954,64.62360343288604
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00936,63.43662501798299
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.009179999999999999,61.78792447273673
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.009,59.73250235052223
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00882,57.32185083929624
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00864,54.635298891655175
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.008459999999999999,51.76837041216776
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00828,48.80209858416154
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0081,45.84378542223248
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00792,42.99179769024186
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00774,40.33180504141067
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.007559999999999999,37.94596164352446
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.007379999999999999,35.88617354122904
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0072,34.20091411812098
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00702,32.90796043559297
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.006839999999999999,32.00738559803704
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.006659999999999999,31.46293035251665
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00648,31.233055783385606
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0063,31.24047905179087
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0061200000000000004,31.422792814127163
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.005939999999999999,31.67645074712734
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0057599999999999995,31.911893800322005
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00558,32.05296328172533
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0054,32.01983165562785
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.005219999999999999,31.763897284892597
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.005039999999999999,31.262105833672777
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00486,30.510705311481697
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00468,29.545324353799284
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0045000000000000005,28.42722669786041
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.004319999999999999,27.25042503938019
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00414,26.132934533743708
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00396,25.206701741523673
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0037800000000000004,24.60966098579688
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.003599999999999999,24.500525307266233
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0034199999999999994,25.007028540709758
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00324,26.27625247439672
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0030600000000000002,28.4038185443323
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0028800000000000006,31.457816586747754
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0026999999999999993,35.48023317116253
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0025199999999999997,40.47217255247908
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0023399999999999983,46.39222422525804
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0021599999999999987,53.15207690786548
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.001979999999999999,60.63072467207725
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0017999999999999995,68.67123819841402
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.00162,77.07438084639755
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0014400000000000003,85.62492851373061
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0012600000000000007,94.09287545462361
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.001080000000000001,102.22525230812565
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0009000000000000015,109.77320437149672
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0007200000000000019,116.49988548940544
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0005399999999999988,122.17217690888933
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0003599999999999992,126.58595461854682
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,-0.0001799999999999996,129.58975681580785
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0,131.05138813200853
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0001799999999999996,130.90357686718588
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0003599999999999992,129.12445000651425
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0005399999999999988,125.75777459840063
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0007199999999999984,120.9070543714396
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.000899999999999998,114.73437834465567
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.001080000000000001,107.45460114134565
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0012600000000000007,99.32811581689718
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0014400000000000003,90.65820546130756
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.00162,81.76417064561092
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0017999999999999995,72.97377680699218
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.001979999999999999,64.61135644911379
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0021599999999999987,56.98544227705591
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0023399999999999983,50.36167825216235
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.002519999999999998,44.956560126711
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.002700000000000001,40.943712615127694
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0028800000000000006,38.42901381848314
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0030600000000000002,37.45322994303584
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.00324,38.00152254543604
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0034199999999999994,40.00482568322783
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.003599999999999999,43.344256815573566
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0037799999999999986,47.872565224096306
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.003959999999999998,53.40687783403986
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.004139999999999998,59.75095404163998
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.004320000000000001,66.70655331454671
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0045000000000000005,74.06910161042192
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.00468,81.64603639936163
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.00486,89.25099608127987
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.005039999999999999,96.7219357002558
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.005219999999999999,103.91075097030775
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0053999999999999986,110.68785515684212
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.005579999999999998,116.93916795215497
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.005759999999999998,122.5775396754
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.005940000000000001,127.52474449494777
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0061200000000000004,131.70857429302998
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0063,135.08820100697193
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.00648,137.61405585113562
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.006659999999999999,139.2585118137024
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.006839999999999999,139.99999999987526
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0070199999999999985,139.82349778706967
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.007199999999999998,138.72355483951358
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.007379999999999998,136.7096014215897
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.007560000000000001,133.79685311970695
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.00774,130.01461399717004
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.00792,125.4053245509485
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0081,120.02581111353933
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.00828,113.9518875086944
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.008459999999999999,107.27598159423974
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.008639999999999998,100.09980066492832
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.008819999999999998,92.56010229708431
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.008999999999999998,84.78593581754993
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.00918,76.91609090013583
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.00936,69.09577432381415
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.00954,61.47323827593425
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.00972,54.182117063074564
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.009899999999999999,47.33453250180567
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.010079999999999999,41.03881972142492
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.010259999999999998,35.38077063053214
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.010439999999999998,30.411132037262817
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.010619999999999997,26.168791780986
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0108,22.663647432479575
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.01098,19.876121125941967
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.01116,17.786443724174774
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.01134,16.3354189608584
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.011519999999999999,15.450850537869151
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.011699999999999999,15.058358078072894
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.011879999999999998,15.062981671513878
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.012059999999999998,15.368025090379527
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.012239999999999997,15.871322072588665
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.012419999999999997,16.47153850182297
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0126,17.069041215165406
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.01278,17.573295636145797
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.01296,17.90440277502389
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.013139999999999999,17.992707734671416
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.013320000000000002,17.787105687662876
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.013500000000000002,17.25936361152887
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.013680000000000001,16.399766845525534
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.01386,15.213560843370011
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.01404,13.728405862823921
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.01422,11.986079818016723
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0144,10.029330010078514
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.01458,7.913536159269266
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.014759999999999999,5.683654512242439
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.014939999999999998,3.377412550258114
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.015119999999999998,1.0251588432541026
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.015299999999999998,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.015479999999999997,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.015659999999999997,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.015839999999999996,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.016019999999999996,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.016199999999999996,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.016379999999999995,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.016559999999999995,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.01674,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.01692,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.0171,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.01728,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.01746,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.01764,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.01782,0.0
+patchy_profile_fluct_loss,patchy Profil + Fluktuation + Verlust,0.018,0.0

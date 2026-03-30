@@ -1,0 +1,3 @@
+kernel_type,features,loocv_acc,interpretation
+best_3_feature,mean_boundary | center_frac | opp_edge,0.8518518518518519,closedness + shell/boundary bias + opposite-locking
+best_overall_upto4,mean_boundary | bridge_overlay | opp_edge | opp_face,0.8703703703703703,adds bridge composition refinement to the 3-feature core
