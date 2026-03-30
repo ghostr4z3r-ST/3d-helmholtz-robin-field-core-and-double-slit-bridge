@@ -10,4 +10,4 @@ Contents include:
 - axis permutation robustness
 - readout robustness
 
-These analyses are the first layer in Repository 2 where the ordering from Paper 1 is no longer only shown to exist, but is studied under Robin variation and robustness of family-level organization.
+These analyses are the first layer in this repository where the ordering from "Reproducible Low-Mode Ordering in a 3D Helmholtz–Robin Eigenproblem on Cube-Like and Lattice-Linked Geometries" is no longer only shown to exist, but is studied under Robin variation and robustness of family-level organization.

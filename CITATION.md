@@ -1,5 +1,11 @@
-# Citation
+# Citation guidance
 
-Please cite the associated Paper 2 preprint once available.
+This repository is the companion reproducibility repository for:
 
-Until the Paper 2 preprint and DOI exist, cite this repository descriptively as a public release candidate of the Helmholtz–Robin project by **Steven Trümpert**.
+**Spectral Organization of a 3D Helmholtz–Robin Field Core and Its Transition into Measurement Geometry**
+
+It builds on the earlier companion manuscript:
+
+**Reproducible Low-Mode Ordering in a 3D Helmholtz–Robin Eigenproblem on Cube-Like and Lattice-Linked Geometries**
+
+Until a repository DOI is minted for this repository, cite it descriptively as the companion reproducibility repository by **Steven Trümpert** associated with the manuscript above.

@@ -1,15 +1,16 @@
 cff-version: 1.2.0
 title: "3D Helmholtz–Robin Field Core and Double-Slit Bridge"
-message: "If you use this repository, please cite the associated Paper 2 preprint once available."
+message: "If you use this repository, please cite the associated manuscript and the repository DOI once available."
 authors:
   - family-names: "Trümpert"
     given-names: "Steven"
     affiliation: "Independent Researcher"
     email: "StevenTruempert@hotmail.de"
-version: 0.5.0
+version: 1.0.0
 abstract: >-
-  Public-release candidate reproducibility repository for the second paper in the
-  3D Helmholtz–Robin project, covering field-core ordering under Robin variation,
-  reduction to a minimal field-core description, and the stepwise double-slit /
-  detector-law build-up on top of the validated basis established in Paper 1.
+  Companion reproducibility repository for the manuscript
+  "Spectral Organization of a 3D Helmholtz–Robin Field Core and Its Transition into Measurement Geometry". The repository starts from the validated
+  low-mode ordering basis established in "Reproducible Low-Mode Ordering in a 3D Helmholtz–Robin Eigenproblem on Cube-Like and Lattice-Linked Geometries"
+  and reproduces the spectral-organization, bridge, double-slit,
+  detector-law, and modified-setup analyses of the present manuscript.
 license: MIT

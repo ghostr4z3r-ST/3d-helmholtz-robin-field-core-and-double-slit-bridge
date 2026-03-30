@@ -2,7 +2,7 @@
 
 This block provides the microscopic support layer for the effective detector law.
 
-Present in this release-candidate:
+Present in this current companion-manuscript build:
 - summary CSV
 - curves CSV
 - curves plot
