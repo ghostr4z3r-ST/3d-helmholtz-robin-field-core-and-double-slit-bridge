@@ -7,9 +7,13 @@ Companion reproducibility repository for the manuscript:
 ## What this repository is
 This repository reproduces the numerical analysis pipeline of the manuscript above. It is not a public research diary and it does not attempt to re-establish from scratch the numerical existence of low-mode ordering in the 3D Helmholtz–Robin model.
 
-That foundational numerical step is established in the earlier companion manuscript:
+That foundational numerical step is established in the earlier companion study:
 
 **Reproducible Low-Mode Ordering in a 3D Helmholtz–Robin Eigenproblem on Cube-Like and Lattice-Linked Geometries**
+
+Companion repository / archive of the earlier study:
+- GitHub: `ghostr4z3r-ST/3d-helmholtz-robin-ordering`
+- Zenodo DOI: **10.5281/zenodo.19335898**
 
 The present repository starts from that validated basis and documents the next layer of analysis:
 - spectral organization under Robin variation,
@@ -20,8 +24,8 @@ The present repository starts from that validated basis and documents the next l
 - microscopic Robin-noise support,
 - and modified setups used for model-based experimental predictions.
 
-## Relation to the earlier companion repository
-The earlier companion repository established that low-mode ordering is numerically real and artifact-hardened on cube-like and lattice-linked geometries. This repository asks the next question: how that ordering organizes spectrally and how it carries into measurement geometry.
+## Relation to the earlier companion study
+The earlier companion study established that low-mode ordering is numerically real and artifact-hardened on cube-like and lattice-linked geometries. This repository asks the next question: how that ordering organizes spectrally and how it carries into measurement geometry.
 
 The inherited basis is summarized under:
 - `docs/manuscript_link.md`
@@ -40,8 +44,8 @@ This repository is intended to reproduce the numerical analyses that support the
 
 ## Current public-core status
 - **179** tracked public-core artifacts
-- **177** recovered artifacts currently present
-- **2** reconstructed artifacts included to close the public reproducibility path
+- **177** recovered historical artifacts currently present
+- **2** transparent reconstructions included to close the manuscript reproduction path
 
 Recovered coverage is especially strong for:
 - field-core ordering and beta-family hardening,
@@ -51,7 +55,7 @@ Recovered coverage is especially strong for:
 - microscopic Robin-noise support for the effective detector law.
 
 ## Repository logic
-1. `00_inherited_foundation` — inherited basis from the earlier companion manuscript
+1. `00_inherited_foundation` — inherited basis from the earlier companion study
 2. `01_field_core_ordering` — field-core ordering, beta-phase summaries, robustness outputs
 3. `02_nullmodels_and_phase_sensitivity` — null models and phase-sensitive diagnostics
 4. `03_carrier_opposite_cef_tests` — opposite-locking, carrier-shell, and corner-edge-face geometry tests

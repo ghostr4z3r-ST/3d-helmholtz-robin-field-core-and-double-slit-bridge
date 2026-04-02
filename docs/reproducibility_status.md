@@ -5,6 +5,10 @@ This repository assumes the validated low-mode field framework established in:
 
 **Reproducible Low-Mode Ordering in a 3D Helmholtz–Robin Eigenproblem on Cube-Like and Lattice-Linked Geometries**
 
+Companion repository / archive of the earlier study:
+- GitHub: `ghostr4z3r-ST/3d-helmholtz-robin-ordering`
+- Zenodo DOI: **10.5281/zenodo.19335898**
+
 It does not repeat the foundational artifact-hardening argument from scratch.
 
 ## Current public-core state

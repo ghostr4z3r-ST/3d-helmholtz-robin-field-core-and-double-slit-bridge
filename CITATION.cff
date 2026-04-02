@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "3D Helmholtz–Robin Field Core and Double-Slit Bridge"
-message: "If you use this repository, please cite the associated manuscript and the repository DOI once available."
+message: "If you use this repository, please cite the associated manuscript and, once minted, the repository DOI."
 authors:
   - family-names: "Trümpert"
     given-names: "Steven"
